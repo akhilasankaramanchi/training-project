@@ -1,0 +1,54 @@
+/*.img-thumbnail {*/
+    /*width: 227px;*/
+    /*height: 436px;*/
+    /*!*position: absolute;*!*/
+/*}*/
+.main{
+    display: flex;
+    margin:5%;
+}
+.smain {
+    margin: 10px;
+    /*border: 1px solid black;*/
+    padding: 10px;
+    margin-left: 8%;
+}
+/*.other {*/
+    /*display: flex;*/
+/*}*/
+/*.comments {*/
+    /*width: 50%;*/
+/*}*/
+/*.spec {*/
+    /*width: 50%;*/
+/*}*/
+.name,.price {
+    font-size: large;
+}
+.features,.spec {
+    padding-top: 2%;
+    padding-left: 10%;
+}
+.cam{
+    padding-left: 5%;
+}
+
+.comments.username{
+    padding-left: 15px;
+}
+.comments.text {
+    padding-left: 2px;
+}
+.similarProducts{
+   padding-left: 2%;
+}
+.displaySlider {
+    display: inline-block;
+    margin: 2%;
+    text-align: center;
+    max-width: 200px;
+}
+.img{
+    width: 220px;
+    height: 400px;
+}

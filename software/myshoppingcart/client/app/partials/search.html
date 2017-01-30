@@ -1,0 +1,25 @@
+<div class="body">
+    <h1> In search page </h1>
+    <div class="main">
+        <div class = "filter">
+            <p>Filters</p>
+            <p> Brands </p>
+            <div ng-repeat="brand in sc.brands | unique:brand ">
+                <input type="checkbox"> {{brand}}
+
+            </div>
+            <td>
+
+        </div>
+        <div class="products">
+            <div class="s" ng-repeat="x in sc.returnedData">
+                <img class="image" src="{{'/app/images/'+x.img}}">
+                <div class="data">
+                    <p>{{x.name}}</p>
+                    <p> price:{{x.price}}</p>
+                </div>
+                <hr>
+            </div>
+        </div>
+    </div>
+</div>

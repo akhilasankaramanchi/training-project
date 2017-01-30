@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" ng-app="myshoppingcart" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" ng-app="myshoppingcart" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" ng-app="myshoppingcart" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" ng-app="myshoppingcart" class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>My AngularJS App</title>
+  <base href="/">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="">
+  <!--<link rel="stylesheet" href="../bower_components/html5-boilerplate/dist/css/normalize.css">-->
+  <!--<link rel="stylesheet" href="../bower_components/html5-boilerplate/dist/css/main.css">-->
+  <link rel ="stylesheet" href="app/css/homeStyle.css">
+  <link rel="stylesheet" href="app/css/app.css">
+  <link rel="stylesheet" href="app/css/viewStyle.css">
+  <link rel="stylesheet" href="app/css/searchStyle.css">
+  <link rel="stylesheet" href="app/css/headerStyle.css">
+  <link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.css">
+  <link rel="stylesheet" href="/bower_components/angular-ui-select/dist/select.css">
+  <link rel="stylesheet" href="/bower_components/angular-jk-rating-stars/dist/jk-rating-stars.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="/bower_components/font-awesome/css/font-awesome.min.css">
+
+  <!--<script src="../bower_components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js"></script>-->
+</head>
+<body>
+
+    <div class = "header">
+        <my-header></my-header>
+    </div>
+
+
+
+    <div class ="container">
+        <div ui-view></div>
+    </div>
+
+  <script src="/bower_components/angular/angular.js"></script>
+  <script src="/bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+  <script src="/bower_components/angular-sanitize/angular-sanitize.js"></script>
+  <script src="/bower_components/jquery/dist/jquery.js"></script>
+  <script src="/bower_components/bootstrap/dist/js/bootstrap.js"></script>
+  <script src="/bower_components/angular-ui-select/dist/select.js"></script>
+  <script src="/bower_components/angular-jk-rating-stars/dist/jk-rating-stars.js"></script>
+  <script src="/bower_components/angular-filter/dist/angular-filter.js"></script>
+  <script src="/bower_components/angular-translate/angular-translate.js"></script>
+
+
+  <script src="app/modules/app.module.js"></script>
+  <script src="app/modules/app.config.js"></script>
+  <script src="app/modules/app.run.js"></script>
+  <script src = "app/modules/directives/myHeader.js"></script>
+
+
+  <script src="app/modules/home/home.module.js"></script>
+  <script src="app/modules/home/home.controller.js"></script>
+  <script src="app/modules/home/data.service.js"></script>
+  <script src = "app/modules/directives/searchBar.js"></script>
+  <script src = "app/modules/directives/topRated.js"></script>
+
+
+  <script src="app/modules/search/search.module.js"></script>
+  <script src="app/modules/search/search.controller.js"></script>
+
+  <script src="app/modules/views/views.module.js"></script>
+  <script src="app/modules/views/views.controller.js"></script>
+  <script src="app/common.utils.js"></script>
+  <script src = "app/modules/directives/viewProduct.js"></script>
+  <script src = "app/modules/directives/similarProducts.js"></script>
+
+
+
+    <footer class="footer">
+        <div class="container">
+            <p class="text-muted">Presented By Akhila Sankaramanchi</p>
+        </div>
+    </footer>
+</body>
+</html>

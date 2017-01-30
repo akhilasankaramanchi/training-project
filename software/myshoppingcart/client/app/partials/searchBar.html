@@ -1,0 +1,25 @@
+<div class="searchFunc">
+    <form class="f">
+        <ui-select ng-model="searchitem.selected" theme="bootstrap" class ="searchTab" onkeypress="handle(event)">
+            <ui-select-match placeholder="Select or search for an item">{{$select.selected.name}}</ui-select-match>
+            <ui-select-choices repeat=" item.name as item in searchitem | filter: $select.search | limitTo:5">
+                <div >
+                <span ng-bind-html="item.name|highlight: $select.search" style="font-size: large">
+                    </span>
+                    <span style="float:right" >{{item.price | currency:"&#8377;"}}</span>
+                    <jk-rating-stars style="float: right" class="topRatedSearchBar" rating="item.webRating" read-only="true"  data-size="1">
+                    </jk-rating-stars>
+                </div>
+            </ui-select-choices>
+        </ui-select>
+        <span><button class="btn btn-primary" ui-sref="view({key:searchitem.selected})" ng-disabled="!searchitem.selected"> SEARCH </button> </span>
+    </form>
+</div>
+<script>
+    function handle(event) {
+        if(event.keyCode == 13) {
+            event.preventDefault();
+
+        }
+    }
+</script>

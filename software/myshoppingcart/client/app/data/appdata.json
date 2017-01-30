@@ -1,0 +1,3329 @@
+[
+  {
+    "id": "ELEC_PRD_1",
+    "name": "SAMSUNG Galaxy J1 Ace",
+    "price": 5500,
+    "description": "Are you looking to buy a smartphone that looks stylish and comes with advanced features? Then you should probably take a look at this Galaxy J1 Ace from Samsung. It has rounded frames, and a slim and unique design which together let you comfortably handle it.",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "Samsung",
+    "RAM": "4GB",
+    "modelName": "Galaxy J1 Ace",
+    "color": "Gold",
+    "battery": "2600 mAh Li-Ion Battery",
+    "img": "ELEC_PRD_1.jpeg",
+    "webRating": 5,
+    "camera": {
+      "front": "5MP",
+      "rear": "8MP"
+    },
+    "comments": [
+      {
+        "text": "Good at this price. The phone some times responds slow while using few apps though...",
+        "rating": "3",
+        "commentedOn": "13/01/2017",
+        "username": "Jhon Deo"
+      },
+      {
+        "text": "Nice Phone. Good Deal. Delivery before the time of estimation. Well done flipkart. Keep it up. Recommended to everyone",
+        "rating": "5",
+        "commentedOn": "15/01/2017",
+        "username": "Jhon Deo brother"
+      },
+      {
+        "text": "I brought this phone as a New Year gift for my dad. It arrived within 2 days, having booked it on 29th Dec. Thanks to Flipkart.Now,about the phone.As mentioned earlier,it is just 1-day old and my dad is already excited about using it.He loves to click photos,so that's the first thing he did, click... Rear camera produces decent pics in a closed room. Pics r gr8 outdoors and white-light lit rooms. Have not tested the front-facing camera yet though.",
+        "rating": "4",
+        "commentedOn": "14/01/2017",
+        "username": "Jhon Deo Sister"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "percentage": 10,
+        "details": "Extra 10% off* on Axis Bank Buzz Credit Cards"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_2",
+    "name": "SAMSUNG Galaxy S7 Edge",
+    "price": 50000,
+    "description": "Maximum Order Quantity is Limited to 1 Unit Per Customer, The Second SIM Slot of this Dual SIM Phone Accepts Either a Nano SIM Card or a microSD Memory Card, 4G Connectivity and Phone Features Depend on the Carrier and the Location of the User",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "Samsung",
+    "RAM": "1GB",
+    "modelName": "Galaxy S7 Edge",
+    "color": "Blue Coral",
+    "battery": "3600 mAh Li-Ion Battery",
+    "img": "ELEC_PRD_2.jpg",
+    "webRating": 1,
+    "camera": {
+      "front": "5MP",
+      "rear": "8MP"
+    },
+    "comments": [
+      {
+        "text": "DESIGN - The metallic/glass body of GS7 with its elegant curves makes it damn appealing to the eyes. No images can define its beauty when seen physically. Please get to a Samsung Store to see how beautiful is the new galaxy.DISPLAY: I've always loved Samsung's AMOLED display and this time too with their 2K AMOLED display, you'll fall in love with its color reproduction and sharp images. Being AMOLED, 2K is far more battery efficient than a normal HD LCD display. GS7 display is something that eyes will love for years. You get 5.5 in screen with edge and because of its ergonomical design and less Body-to-Screen Ratio, being a perfect size for viewing, it doesn't feels so large in hands",
+        "rating": "2",
+        "commentedOn": "13/01/2017",
+        "username": "Tom"
+      },
+      {
+        "text": "Superb phone by samsung...but costly..i am using this phone since one month and its really awsome.",
+        "rating": "4",
+        "commentedOn": "15/01/2017",
+        "username": "Tom brother"
+      },
+      {
+        "text": "It's a beautiful and powerful phone.",
+        "rating": "4",
+        "commentedOn": "14/01/2017",
+        "username": "Ria"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "percentage": 10
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_3",
+    "name": "SAMSUNG Galaxy On3",
+    "price": 15500,
+    "description": "This Samsung Galaxy phone has a classy design with a leather-feel back cover. With the quick launch feature in the phone’s camera, you will never miss an opportunity to take a good picture. With a wide viewing angle, Palm Gesture selfie feature and the Beauty Shot mode, selfies are simply fun to take from this phone.",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "Samsung",
+    "RAM": "1GB",
+    "modelName": "Galaxy On3",
+    "color": "Gold",
+    "battery": "2600 mAh Li-Ion Battery",
+    "img": "ELEC_PRD_3.jpg",
+    "webRating": 2,
+    "camera": {
+      "front": "5MP",
+      "rear": "8MP"
+    },
+    "comments": [
+      {
+        "text": "I was looking to buy new phone for my wife and this is the best thing I did.She is super happy and me too :)",
+        "rating": "4",
+        "commentedOn": "13/01/2017",
+        "username": "Jotsna"
+      },
+      {
+        "text": "This Mobile is budget category but fully featured.Thinking 1.5GB ram would be adequate or not.But its more than adequate,Super-fast Delivery, hassle free exchange.Processor is good,Ram is good,Not hanging,No heating",
+        "rating": "5",
+        "commentedOn": "15/01/2017",
+        "username": "Rekha"
+      },
+      {
+        "text": "ordered this phone on 4-Nov & was delivered by Flipkart on 5-Nov. 5 stars for Flipkart & WS Retail for delivering on time.",
+        "rating": "4",
+        "commentedOn": "14/01/2017",
+        "username": "Anna"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "percentage": 40
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_4",
+    "name": "SAMSUNG NOTE3",
+    "price": 35500,
+    "description": "4G Connectivity and Phone Features Depend on the Carrier and the Location of the User",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "Samsung",
+    "RAM": "1GB",
+    "modelName": "Galaxy Note 3",
+    "color": "Gold",
+    "battery": "12600 mAh Li-Ion Battery",
+    "img": "ELEC_PRD_4.jpg",
+    "webRating": 3,
+    "camera": {
+      "front": "5MP",
+      "rear": "8MP"
+    },
+    "comments": [
+      {
+        "text": "Pros: Best Camara, Audio qulaity superb. Call quality is one of the best among androids.Stylus drawing is crisp, speed & performance is at par with any premium phone. Cons: Voice recognition is very sensitive to surrounding and limited voice response compared to iphone 6s. but still satisfactory.",
+        "rating": "3",
+        "commentedOn": "13/01/2017",
+        "username": "Jhon Deo"
+      },
+      {
+        "text": "Nice Design,Great Camera",
+        "rating": "5",
+        "commentedOn": "15/01/2017",
+        "username": "Jhon Deo brother"
+      },
+      {
+        "text": "The interface is buttery smooth with no lags whatsoever.Camera opens up super fast by double clicking the home button and the image/video quality is just awesome.Just go for it !!",
+        "rating": "1",
+        "commentedOn": "14/01/2017",
+        "username": "Jhon Deo Sister"
+      }
+    ],
+    "offers": [
+      {
+        "type": "exchange",
+        "amount": 2000
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_5",
+    "name": "Apple iPhone 6",
+    "price": 61500,
+    "description": "With a beautiful finish and a light weight, the Apple iPhone 6 is stylish and comfortable to carry. The phone has a multitouch display screen with IPS technology, letting you use it easily and making pictures and videos bright and clear. The iSight camera of the phone has an autofocus, True Tone flash and other features like face detection and panorama to help you take good pictures.",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "iphone",
+    "RAM": "64GB",
+    "modelName": "6S",
+    "color": "Gold",
+    "battery": "12600 mAh Li-Ion Battery",
+    "img": "ELEC_PRD_5.png",
+    "webRating": 4,
+    "camera": {
+      "front": "5MP",
+      "rear": "8MP"
+    },
+    "comments": [
+      {
+        "text": "best phone",
+        "rating": "5",
+        "commentedOn": "17/01/2017",
+        "username": "Akhila"
+      },
+      {
+        "text": "To me personally, I liked the Android operating system for the options/customization it allows at every point, nevertheless Apple products have their own standards and that way there is a little less to learn when compared to so many versions/variants of Android suites out there.",
+        "rating": "4",
+        "commentedOn": "15/01/2017",
+        "username": "Akhila brother"
+      },
+      {
+        "text": "Replaced my Iphone 5s with New Iphone 6. This year again purchased my iphone from Flipkart & as always delivery was up-to the mark.",
+        "rating": "5",
+        "commentedOn": "14/01/2017",
+        "username": "Akhila Sister"
+      }
+    ],
+    "offers": [
+      {
+        "type": "exchange",
+        "amount": 2000
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_6",
+    "name": "Nexus 5",
+    "price": 52500,
+    "description": "Rounding off Android perfection and providing the experience that was truly intended by Google when they created the operating system, the Nexus 5 is a beautiful device that packs high-powered hardware with flawless software – a never-fail combination.",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "Google",
+    "RAM": "12GB",
+    "modelName": "Nexus 4",
+    "color": "Gold",
+    "battery": "21600 mAh Li-Ion Battery",
+    "img": "ELEC_PRD_6.jpg",
+    "webRating": 5,
+    "camera": {
+      "front": "15MP",
+      "rear": "18MP"
+    },
+    "comments": [
+      {
+        "text": "Good phone by google",
+        "rating": "4",
+        "commentedOn": "16/01/2017",
+        "username": "Jhon Deo"
+      },
+      {
+        "text": "let me first get rid of those who gives one or two star.....I know,initially phone comes with some glitches.Yes that is also unacceptable from Google But all those issue are now rectified in progressive updates i'm in Lollipop v 5.0.2 and feels great having such an astounding phone.Till today none of other phone get the taste of Lollipop yet recall lollipop was released on 12 Nov 2014...",
+        "rating": "2",
+        "commentedOn": "17/01/2017",
+        "username": "Jhon Deo brother"
+      },
+      {
+        "text": "I didn't buy this on fipkart as it was not available then , i am writing this review after using the phone for 10 days. I have also got the kitkat update 4.4.2 . ",
+        "rating": "3",
+        "commentedOn": "17/01/2017",
+        "username": "Jhon Deo Sister"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "percentage": 40
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_7",
+    "name": "1 plus",
+    "price": 40000,
+    "description": "4G Connectivity and Phone Features Depend on the Carrier and the Location of the User,OnePlus Phones comes with Pre-applied UV Screen Protectors",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "1 plus",
+    "RAM": "16GB",
+    "modelName": "1 plus",
+    "color": "black",
+    "battery": "2900 mAh Li-Ion Battery",
+    "img": "ELEC_PRD_7.png",
+    "webRating": 4,
+    "camera": {
+      "front": "20MP",
+      "rear": "18MP"
+    },
+    "comments": [
+      {
+        "text": "best camera clarity",
+        "rating": "5",
+        "commentedOn": "18/01/2017",
+        "username": "Jhon Deo"
+      },
+      {
+        "text": "he phone is blazing fast and lag free. I am able to open more than 20 apps in parallel and yet run lag free. The speaker is loud and audible. Nice voice quality, Good signal reception. I have not faced any call drop even if I spoke continuously for more than an hour",
+        "rating": "2",
+        "commentedOn": "15/01/2017",
+        "username": "Jhon Deo brother"
+      },
+      {
+        "text": "Gaming: If Gaming is your first priority buy OnePlusOne blindly. Moto X Play cannot match it here.Sound Quality: It is slightly better than Moto X Play.",
+        "rating": "3",
+        "commentedOn": "14/01/2017",
+        "username": "Jhon Deo Sister"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "percentage": 40
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_8",
+    "name": "Nokia 216  (Black)",
+    "price": 10000,
+    "description": "NOKIA 216 DUAL SIM",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "Nokia",
+    "RAM": "1GB",
+    "modelName": "6600",
+    "color": "black",
+    "battery": "600 mAh Li-Ion Battery",
+    "img": "ELEC_PRD_8.jpg",
+    "webRating": 1,
+    "camera": {
+      "front": "none",
+      "rear": "none"
+    },
+    "comments": [
+      {
+        "text": "Worst phone",
+        "rating": "1",
+        "commentedOn": "17/01/2017",
+        "username": "Jhon Deo"
+      },
+      {
+        "text": "phone for yester generation",
+        "rating": "2",
+        "commentedOn": "15/111/2016",
+        "username": "Deo brother"
+      },
+      {
+        "text": "no Worth its price.",
+        "rating": "1",
+        "commentedOn": "14/01/2017",
+        "username": "Jhon Deo Sister"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "percentage": 4
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_9",
+    "name": "LG metro perl",
+    "price": 11400,
+    "description": "Play more, do more, go that extra mile and enjoy with this LG G5 smartphone. Featuring a breathtaking, modular design and stunning specifications, this G5 will make your life more fun. Its sleek design ensures easy handling while its easy customizable options allow you to set your phone depending on your needs.",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "LG",
+    "RAM": "1GB",
+    "modelName": "LG metro perl",
+    "color": "white",
+    "battery": "10600 mAh Li-Ion Battery",
+    "img": "ELEC_PRD_9.png",
+    "webRating": 5,
+    "camera": {
+      "front": "5MP",
+      "rear": "8MP"
+    },
+    "comments": [
+      {
+        "text": "limited features",
+        "rating": "2",
+        "commentedOn": "14/11/2016",
+        "username": "Jhon Deo"
+      },
+      {
+        "text": "The product is good. I bought it at 47000. The price is bit high as LG G5 looks simple. The body of LG G5 is not as good as metallic bodies of HTC Phones.",
+        "rating": "5",
+        "commentedOn": "15/01/2017",
+        "username": "Jhon Deo brother"
+      },
+      {
+        "text": "LG G5 is excellent. Picture quality, camera quality, sound quality is excellent. Battery back is good. Its never lag like Samsung high end products. Its worth buying it",
+        "rating": "1",
+        "commentedOn": "14/01/2017",
+        "username": "Jhon Deo Sister"
+      }
+    ],
+    "offers": [
+      {
+        "type": "exchange",
+        "amount": 5000
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_10",
+    "name": "Apple iPhone 7",
+    "price": 51500,
+    "description": "Take your iPhone experience to the next level with iPhone 7. Featuring new camera systems, a better battery-life, an efficient processor and powerful stereo speakers, this smartphone will drastically enhance your iPhone experience. With a sharp and vibrant display, and a sleek water-resistant body, this phone is as powerful as it is attractive.",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "Apple",
+    "RAM": "36GB",
+    "modelName": "5S",
+    "color": "Black",
+    "battery": "12600 mAh Li-Ion Battery",
+    "img": "ELEC_PRD_10.jpg",
+    "webRating": 2,
+    "camera": {
+      "front": "5MP",
+      "rear": "8MP"
+    },
+    "comments": [
+      {
+        "text": "Had pre-ordered this phone, with a 10k cashback. It was delivered by flipkart around 9:45 PM on 7th Oct, on the evening it was launched. Phone was well packed in a mystery black box :-). ",
+        "rating": "4",
+        "commentedOn": "14/11/2016",
+        "username": "Jhon Deo"
+      },
+      {
+        "text": "Buying the most awaited phone of the year and that too from flipkart was amazing. Really thankful to flipkart for understanding the customer's egarness.Flipkart Delivered the product on 7/10/16 at 7.10 pm when apple conducted all india launch.",
+        "rating": "5",
+        "commentedOn": "15/01/2017",
+        "username": "Jhon Deo brother"
+      },
+      {
+        "text": "he increased speed and camera are great! 3D Touch feels a little incomplete but is convenient nonetheless. While the design is the same as the 6, the black really makes it stand out. Stunning finish on the matte black.",
+        "rating": "1",
+        "commentedOn": "14/01/2017",
+        "username": "Jhon Deo Sister"
+      }
+    ],
+    "offers": [
+      {
+        "type": "exchange",
+        "amount": 5000
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_11",
+    "name": "Moto G Play",
+    "price": 7999,
+    "description": "Introducing Moto G Play, 4th Gen the phone that gives you more of what you love. Enjoy the fast, reliable performance of a quad-core processor when you’re watching videos or playing games during a break.",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "Motorola",
+    "RAM": "1GB",
+    "modelName": "Moto G Play",
+    "color": "Black",
+    "battery": "2800 mAh Li-Ion Battery",
+    "camera": {
+      "front": "5MP",
+      "rear": "8MP"
+    },
+    "img": "ELEC_PRD_11.jpg",
+    "webRating": 4,
+    "comments": [
+      {
+        "text": "Speaker stops working automatically,can't hear calls and music.Everyday it needed to be restarted,plz help.",
+        "rating": "3",
+        "commentedOn": "22/01/2017",
+        "username": "Amazon Customer"
+      },
+      {
+        "text": "Good product,worth of that money,only disadvantage finger sensor not there",
+        "rating": "4",
+        "commentedOn": "22/01/2017",
+        "username": "Sridhar"
+      },
+      {
+        "text": "No it doesn't meet our expectations",
+        "rating": "1",
+        "commentedOn": "22/01/2017",
+        "username": "Amazon Customer"
+      }
+    ],
+    "offers": [
+      {
+        "type": "exchange",
+        "off ": 500
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_12",
+    "name": "Xiaomi Mi Max Prime",
+    "price": 19999,
+    "description": "We want a big screen, not a big phone. Despite its large display, Mi Max Prime is extremely light and compact.",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "Xiaomi",
+    "RAM": "4GB",
+    "modelName": "Mi Max Prime",
+    "color": "Gold",
+    "battery": "4850 mAh Li-Ion Battery",
+    "camera": {
+      "front": "5MP",
+      "rear": "16MP"
+    },
+    "img": "ELEC_PRD_12.jpg",
+    "webRating": 5,
+    "comments": [
+      {
+        "text": "Phone is very big & tough to hold in one hand use, both front & camera quality is very poor.",
+        "rating": "2",
+        "commentedOn": "21/01/2017",
+        "username": "Vinod R"
+      },
+      {
+        "text": "Fantastic phone",
+        "rating": "5",
+        "commentedOn": "21/01/2017",
+        "username": "Anonymous"
+      },
+      {
+        "text": "Amazing VFM product. Didnt find another one when wanted to order for my friend. MI rocks",
+        "rating": "5",
+        "commentedOn": "18/01/2017",
+        "username": "Rahul Jain"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "percentage": 2
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_13",
+    "name": "Coolpad Mega 2.5D",
+    "price": 6999,
+    "description": "Tired of your phone running slow right in the middle of your favourite game? It’s time you switch on to Coolpad Mega, available with 3GB RAM for a super-fast performance.",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "Coolpad",
+    "RAM": "1GB",
+    "modelName": "Mega 2.5D",
+    "color": "Black",
+    "battery": "2500 mAh Li-Ion Battery",
+    "camera": {
+      "front": "8MP",
+      "rear": "8MP"
+    },
+    "img": "ELEC_PRD_13.jpg",
+    "webRating": 5,
+    "comments": [
+      {
+        "text": "Not at all happy with the performance and would like to return the product.",
+        "rating": "1",
+        "commentedOn": "22/01/2017",
+        "username": "Ranga"
+      },
+      {
+        "text": "Good phone only battery backup much more so I feel better",
+        "rating": "4",
+        "commentedOn": "22/01/2017",
+        "username": "Aman Gupta"
+      },
+      {
+        "text": "Nice product delivered early",
+        "rating": "4",
+        "commentedOn": "22/01/2017",
+        "username": "Peter"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "percentage": 2
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_14",
+    "name": "Samsung On7 Pro",
+    "price": 9990,
+    "description": "Perfect to the finest detail, the HD display gives you vivid colours and contrast for a lively viewing experience.",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "Samsung",
+    "RAM": "1GB",
+    "modelName": "On7 Pro",
+    "color": "Black",
+    "battery": "2500 mAh Li-Ion Battery",
+    "camera": {
+      "front": "3MP",
+      "rear": "5MP"
+    },
+    "img": "ELEC_PRD_14.jpg",
+    "webRating": 5,
+    "comments": [
+      {
+        "text": "Third class quality",
+        "rating": "4",
+        "commentedOn": "21/01/2017",
+        "username": "Ramakanth"
+      },
+      {
+        "text": "Good phone but display is blinking while reducing brightness",
+        "rating": "3",
+        "commentedOn": "18/01/2017",
+        "username": "sagar shiva"
+      },
+      {
+        "text": "Nice price tag and features",
+        "rating": "4",
+        "commentedOn": "17/01/2017",
+        "username": "Chandam kumar"
+      }
+    ],
+    "offers": []
+  },
+  {
+    "id": "ELEC_PRD_15",
+    "name": "Lenovo Vibe K5",
+    "price": 7499,
+    "description": "If Power is what you need, then power is what you get thanks to the new gen 64-Bit Qualcomm Snapdragon 616 Octa Core chipset. Combined with 2GB DDR3 RAM, it’s a powerhouse of performance in your palm.",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "Lenovo",
+    "RAM": "2GB",
+    "modelName": "Vibe K5",
+    "color": "Black",
+    "battery": "2750 mAh Li-Ion Battery",
+    "camera": {
+      "front": "5MP",
+      "rear": "13MP"
+    },
+    "img": "ELEC_PRD_15.jpg",
+    "webRating": 5,
+    "comments": [
+      {
+        "text": "Headset not given in the pack",
+        "rating": "3",
+        "commentedOn": "18/01/2017",
+        "username": "Krishna Kumari"
+      },
+      {
+        "text": "Brought this mobile yesterday, it's awesome so far",
+        "rating": "4",
+        "commentedOn": "18/01/2017",
+        "username": "Shantanu narayan"
+      },
+      {
+        "text": " While calling on the other side people cant hear my voice for 4-5 second.",
+        "rating": "3",
+        "commentedOn": "18/01/2017",
+        "username": "Techie Abhinav"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "percentage": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_16",
+    "name": "Intex Aqua Strong 5.2",
+    "price": 5299,
+    "description": "Display Size - 5 Inch SIM Slot Type(1&2) - Micro + Micro Both sim slot supports 2G/3G/4G - Yes Jack - 3.5MM Sensors - Accelerometer Battery - 2800 mAh",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "Intex",
+    "RAM": "2GB",
+    "modelName": "Aqua Strong 5.2",
+    "color": "Blue",
+    "battery": "2800 mAh Li-Ion Battery",
+    "camera": {
+      "front": "2MP",
+      "rear": "5MP"
+    },
+    "img": "ELEC_PRD_16.jpg",
+    "webRating": 5,
+    "comments": [
+      {
+        "text": "Headset not given in the pack",
+        "rating": "3",
+        "commentedOn": "18/01/2017",
+        "username": "Krishna Kumari"
+      },
+      {
+        "text": "Trusted brand. so it's gonna be good",
+        "rating": "3",
+        "commentedOn": "21/01/2017",
+        "username": "Photoshop Expert"
+      },
+      {
+        "text": "Standard features and budget price",
+        "rating": "4",
+        "commentedOn": "18/12/2016",
+        "username": "Jamshad Ji"
+      }
+    ],
+    "offers": [
+      {
+        "type": "exchange",
+        "off": 500
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_17",
+    "name": "BlackBerry PRIV",
+    "price": 5299,
+    "description": "BlackBerry PRIV Smartphone is sleek in design and powerful in terms of performance. The BlackBerry mobile phone has a 5.4 inch capacitive touch screen which comes with a 540 ppi pixel density along with a resolution value of 2560x1440 pixels.",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "BlackBerry",
+    "RAM": "3GB",
+    "modelName": "PRIV",
+    "color": "Black",
+    "battery": "3410 mAh Li-Ion Battery",
+    "camera": {
+      "front": "2MP",
+      "rear": "18MP"
+    },
+    "img": "ELEC_PRD_17.jpg",
+    "webRating": 4,
+    "comments": [
+      {
+        "text": "I moved from an S6 Edge to the BB Priv. I was very happy with my previous phone, but after heavy usage for 1.5 years",
+        "rating": "4",
+        "commentedOn": "28/11/2016",
+        "username": "Anant Sharma"
+      },
+      {
+        "text": "Its a good looking phone with very beautiful slider mechanism and somewhat usable qwerty keyboard which also doubles as track pad but OVERHEATING trumps all.",
+        "rating": "2",
+        "commentedOn": "19/11/2016",
+        "username": "Vivek Chaudary"
+      },
+      {
+        "text": "only head turner , but useless keypad and waste camera both front and back",
+        "rating": "2",
+        "commentedOn": "22/01/2016",
+        "username": "Krishna Chandam"
+      }
+    ],
+    "offers": []
+  },
+  {
+    "id": "ELEC_PRD_18",
+    "name": "Blackberry M9",
+    "price": 27999,
+    "description": "Perfect to the finest detail, the HD display gives you vivid colours and contrast for a lively viewing experience.",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "Blackberry",
+    "RAM": "3GB",
+    "modelName": "M9",
+    "color": "Jet Black",
+    "camera": {
+      "front": "2MP",
+      "rear": "6MP"
+    },
+    "img": "ELEC_PRD_18.jpg",
+    "webRating": 2,
+    "comments": [
+      {
+        "text": "This time got the product as per order not the wrong one",
+        "rating": 3,
+        "commentedOn": "17/01/16",
+        "username": "Naresh Patel"
+      },
+      {
+        "text": "This time got the product as per order not the wrong one",
+        "rating": 1,
+        "commentedOn": "15/07/16",
+        "username": "Samarpan Patel"
+      },
+      {
+        "text": "Nice mobile, price is higher then open market",
+        "rating": 3,
+        "commentedOn": "15/01/17",
+        "username": "Samarpan Patel"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_19",
+    "name": "Asus X",
+    "price": 14999,
+    "description": "Actual usable capacity will be less due to formatting and operating system. MicroSD card sold separately. It may not be possible to move content with DRM restrictions to the card.",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "Asus",
+    "RAM": "2GB",
+    "modelName": "X",
+    "color": "Jet Black",
+    "camera": {
+      "front": "2MP",
+      "rear": "16GB"
+    },
+    "img": "ELEC_PRD_19.jpg",
+    "webRating": 4,
+    "comments": [
+      {
+        "text": "Nice mobile, price is higher then open market",
+        "rating": 0,
+        "commentedOn": "17/05/16",
+        "username": "Shamith Kumar"
+      },
+      {
+        "text": "Nice mobile, price is higher then open market",
+        "rating": 0,
+        "commentedOn": "12/05/16",
+        "username": "Indragani Raj"
+      },
+      {
+        "text": "Nice mobile, price is higher then open market",
+        "rating": 3,
+        "commentedOn": "01/01/17",
+        "username": "Peter Jain"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_20",
+    "name": "LG J7 Prime",
+    "price": 27999,
+    "description": "Now with even longer lasting battery power to pack in more multimedia and keep gamers in the action.",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "LG",
+    "RAM": "6GB",
+    "modelName": "J7 Prime",
+    "color": "Black",
+    "camera": {
+      "front": "4MP",
+      "rear": "16GB"
+    },
+    "img": "ELEC_PRD_20.jpg",
+    "webRating": 2,
+    "comments": [
+      {
+        "text": "Nice mobile, price is higher then open market",
+        "rating": 2,
+        "commentedOn": "17/05/16",
+        "username": "Shamith Doe"
+      },
+      {
+        "text": "Best smartphone in market on a budget rating good features not more go try it & enjoy",
+        "rating": 4,
+        "commentedOn": "15/07/16",
+        "username": "Shamith Kunal"
+      },
+      {
+        "text": "This time got the product as per order not the wrong one",
+        "rating": 4,
+        "commentedOn": "15/07/16",
+        "username": "Tom Meera"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_21",
+    "name": "LG X",
+    "price": 30000,
+    "description": "The IPS capacitive touch screen is super receptive to your fingers while you have the best user-experience running through the various apps on phone.",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "LG",
+    "RAM": "4GB",
+    "modelName": "X",
+    "color": "Gold",
+    "camera": {
+      "front": "2MP",
+      "rear": "16GB"
+    },
+    "img": "ELEC_PRD_21.jpg",
+    "webRating": 4,
+    "comments": [
+      {
+        "text": "The best phone in its range.meets all the requirements especially the fingerprint sensor. Clock speed it okay .",
+        "rating": 3,
+        "commentedOn": "17/01/16",
+        "username": "Divyam Chaudary"
+      },
+      {
+        "text": "This time got the product as per order not the wrong one",
+        "rating": 1,
+        "commentedOn": "15/07/16",
+        "username": "Peter Doe"
+      },
+      {
+        "text": "This time got the product as per order not the wrong one",
+        "rating": 3,
+        "commentedOn": "12/05/16",
+        "username": "Tejamsh Patel"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_22",
+    "name": "OnePlus Z2 Plus",
+    "price": 16500,
+    "description": "Perfect to the finest detail, the HD display gives you vivid colours and contrast for a lively viewing experience.",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "OnePlus",
+    "RAM": "4GB",
+    "modelName": "Z2 Plus",
+    "color": "Jet Black",
+    "camera": {
+      "front": "5GB",
+      "rear": "6MP"
+    },
+    "img": "ELEC_PRD_22.jpg",
+    "webRating": 3,
+    "comments": [
+      {
+        "text": "Am impressed with the product and ease of handling good finish n feel",
+        "rating": 4,
+        "commentedOn": "15/07/16",
+        "username": "Krishna Chaudary"
+      },
+      {
+        "text": "The best phone in its range.meets all the requirements especially the fingerprint sensor. Clock speed it okay .",
+        "rating": 0,
+        "commentedOn": "12/05/16",
+        "username": "Indragani Meera"
+      },
+      {
+        "text": "The best phone in its range.meets all the requirements especially the fingerprint sensor. Clock speed it okay .",
+        "rating": 0,
+        "commentedOn": "13/05/16",
+        "username": "Naresh Kumar"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_23",
+    "name": "OnePlus P1",
+    "price": 14999,
+    "description": "Elegantly Refined Boasts a stunning metal unibody with zero camera protrusion to ensure an overall ultra slim design. Its enlarged screen features flowing curved edges for optimal viewing and comfortable single handed use.",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "OnePlus",
+    "RAM": "6GB",
+    "modelName": "P1",
+    "color": "Gold",
+    "camera": {
+      "front": "2MP",
+      "rear": "6MP"
+    },
+    "img": "ELEC_PRD_23.jpg",
+    "webRating": 2,
+    "comments": [
+      {
+        "text": "Nice looking very good product is back Batun is properly note working",
+        "rating": 4,
+        "commentedOn": "15/06/17",
+        "username": "Krishna Doe"
+      },
+      {
+        "text": "Best smartphone in market on a budget rating good features not more go try it & enjoy",
+        "rating": 1,
+        "commentedOn": "17/05/16",
+        "username": "Tejamsh Kumar"
+      },
+      {
+        "text": "Best smartphone in market on a budget rating good features not more go try it & enjoy",
+        "rating": 3,
+        "commentedOn": "05/05/16",
+        "username": "Disha Patel"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_24",
+    "name": "Xiomii 6P Special",
+    "price": 14999,
+    "description": "1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "Xiomii",
+    "RAM": "2GB",
+    "modelName": "6P Special",
+    "color": "Jet Black",
+    "camera": {
+      "front": "4MP",
+      "rear": "8MP"
+    },
+    "img": "ELEC_PRD_24.jpg",
+    "webRating": 1,
+    "comments": [
+      {
+        "text": "The best phone in its range.meets all the requirements especially the fingerprint sensor. Clock speed it okay .",
+        "rating": 0,
+        "commentedOn": "12/05/16",
+        "username": "Naresh Kunal"
+      },
+      {
+        "text": "The best phone in its range.meets all the requirements especially the fingerprint sensor. Clock speed it okay .",
+        "rating": 3,
+        "commentedOn": "17/05/16",
+        "username": "Tejamsh Kumar"
+      },
+      {
+        "text": "Nice mobile, price is higher then open market",
+        "rating": 4,
+        "commentedOn": "05/12/16",
+        "username": "Krishna Raj"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_25",
+    "name": "Samsung Z2 Plus",
+    "price": 12999,
+    "description": "Perfect to the finest detail, the HD display gives you vivid colours and contrast for a lively viewing experience.",
+    "type": "Electronics",
+    "subType": "mobile",
+    "brand": "Samsung",
+    "RAM": "4GB",
+    "modelName": "Z2 Plus",
+    "color": "Jet Black",
+    "camera": {
+      "front": "5GB",
+      "rear": "12GB"
+    },
+    "img": "ELEC_PRD_25.jpg",
+    "webRating": 3,
+    "comments": [
+      {
+        "text": "The best phone in its range.meets all the requirements especially the fingerprint sensor. Clock speed it okay .",
+        "rating": 1,
+        "commentedOn": "15/01/17",
+        "username": "Diya Krishna"
+      },
+      {
+        "text": "Nice looking very good product is back Batun is properly note working",
+        "rating": 2,
+        "commentedOn": "12/05/16",
+        "username": "Tejamsh Agarwal"
+      },
+      {
+        "text": "This time got the product as per order not the wrong one",
+        "rating": 1,
+        "commentedOn": "12/12/16",
+        "username": "Samarpan Kumar"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_26",
+    "name": "Lenovo G50",
+    "price": 45500,
+    "description": "Lenovo g50  is a laptop and blah blah",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "Lenovo",
+    "RAM": "4GB",
+    "modelName": "G50",
+    "color": "Black",
+    "img": "ELEC_PRD_26.jpg",
+    "webRating": 4,
+    "battery": "2600 mAh Li-Ion Battery",
+    "comments": [
+      {
+        "text": "Worst laptop",
+        "rating": "1",
+        "commentedOn": "13/01/2017",
+        "username": "Jhon Deo"
+      },
+      {
+        "text": "Awesome laptop",
+        "rating": "5",
+        "commentedOn": "15/01/2017",
+        "username": "Jhon Deo brother"
+      },
+      {
+        "text": "Worth price. The phone does not look cheap from any angle. Some have even confused this with the Galaxy A5, so this says a lot!",
+        "rating": "1",
+        "commentedOn": "14/01/2017",
+        "username": "Jhon Deo Sister"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "percentage": 40
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_27",
+    "name": "Dell ",
+    "price": 17500,
+    "description": "dell is a smart phone and blah blah",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "Dell",
+    "RAM": "8GB",
+    "modelName": "De60",
+    "color": "black",
+    "img": "ELEC_PRD_27.jpg",
+    "webRating": 4,
+    "battery": "2600 mAh Li-Ion Battery",
+    "comments": [
+      {
+        "text": "best laptop",
+        "rating": "5",
+        "commentedOn": "13/01/2017",
+        "username": "Jhon Deo"
+      },
+      {
+        "text": "Awesome laptop",
+        "rating": "5",
+        "commentedOn": "15/01/2017",
+        "username": "Jhon Deo brother"
+      },
+      {
+        "text": "Worth price. The phone does not look cheap from any angle. Some have even confused this with the Galaxy A5, so this says a lot!",
+        "rating": "2",
+        "commentedOn": "14/01/2017",
+        "username": "Jhon Deo Sister"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "percentage": 30
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_28",
+    "name": "Acer",
+    "price": 52500,
+    "description": "Acer best and blah blah",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "Acer",
+    "RAM": "4GB",
+    "modelName": "yoga",
+    "color": "Silver",
+    "img": "ELEC_PRD_28.jpg",
+    "webRating": 4,
+    "battery": "2600 mAh Li-Ion Battery",
+    "comments": [
+      {
+        "text": "Worst laptop",
+        "rating": "1",
+        "commentedOn": "13/01/2017",
+        "username": "Jhon Deo"
+      },
+      {
+        "text": "bad performance laptop",
+        "rating": "1",
+        "commentedOn": "15/01/2017",
+        "username": "Jhon Deo brother"
+      },
+      {
+        "text": "Worth price. The phone does not look cheap from any angle. Some have even confused this with the Galaxy A5, so this says a lot!",
+        "rating": "1",
+        "commentedOn": "14/01/2017",
+        "username": "Jhon Deo Sister"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "percentage": 80
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_29",
+    "name": "hp",
+    "price": 41500,
+    "description": "hp is a smart phone and blah blah",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "hp",
+    "RAM": "8GB",
+    "modelName": "Note 3",
+    "color": "metal Silver",
+    "img": "ELEC_PRD_29.jpg",
+    "webRating": 4,
+    "battery": "12600 mAh Li-Ion Battery",
+    "comments": [
+      {
+        "text": "best laptop",
+        "rating": "5",
+        "commentedOn": "13/01/2017",
+        "username": "Jhon Deo"
+      },
+      {
+        "text": "Awesome notebook",
+        "rating": "4",
+        "commentedOn": "15/01/2017",
+        "username": "Jhon Deo brother"
+      },
+      {
+        "text": "Worth price. The notebook does not look cheap from any angle. Some have even confused this with the Galaxy A5, so this says a lot!",
+        "rating": "4",
+        "commentedOn": "14/01/2017",
+        "username": "Jhon Deo Sister"
+      }
+    ],
+    "offers": [
+      {
+        "type": "exchange",
+        "amount": 4000
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_30",
+    "name": "apple macbook",
+    "price": 91500,
+    "description": "apple macbook is a smart phone and blah blah",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "apple",
+    "RAM": "8GB",
+    "modelName": "macbook",
+    "color": "Silver",
+    "img": "ELEC_PRD_30.jpg",
+    "webRating": 4,
+    "battery": "12600 mAh Li-Ion Battery",
+    "comments": [
+      {
+        "text": "best laptop by apple",
+        "rating": "5",
+        "commentedOn": "17/01/2017",
+        "username": "Akhila"
+      },
+      {
+        "text": "very good",
+        "rating": "5",
+        "commentedOn": "15/01/2017",
+        "username": "Akhila brother"
+      },
+      {
+        "text": "Worth it price. The macbook does not look cheap from any angle. Some have even confused this with the Galaxy A5, so this says a lot!",
+        "rating": "5",
+        "commentedOn": "14/01/2017",
+        "username": "Akhila Sister"
+      }
+    ],
+    "offers": [
+      {
+        "type": "exchange",
+        "amount": 21000
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_31",
+    "name": "Macbook Air",
+    "price": 106000,
+    "description": "Worlds thinnest Laptop..",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "Apple",
+    "RAM": "16GB",
+    "modelName": "Mac",
+    "color": "Rose Gold",
+    "img": "ELEC_PRD_31.jpg",
+    "webRating": 4,
+    "battery": "18500 mAh Li-Ion Battery",
+    "comments": [
+      {
+        "text": "Coolest Mac ever!!",
+        "rating": "5",
+        "commentedOn": "17/01/2017",
+        "username": "Sara Fisher"
+      },
+      {
+        "text": "Bad Service",
+        "rating": "0",
+        "commentedOn": "19/05/2016",
+        "username": "Bob Marley"
+      },
+      {
+        "text": "Neat. Eligant",
+        "rating": "5",
+        "commentedOn": "12/12/2016",
+        "username": "John van Nauman"
+      }
+    ],
+    "offers": [
+      {
+        "type": "used",
+        "amount": 80000
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_32",
+    "name": "Lenovo Yoga",
+    "price": 65000,
+    "description": "360 Degree Flexible",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "Lenovo",
+    "RAM": "12GB",
+    "modelName": "Yoga",
+    "color": "Rust Black",
+    "img": "ELEC_PRD_32.jpg",
+    "webRating": 4,
+    "battery": "32500 mAh Li-Ion Battery",
+    "comments": [
+      {
+        "text": "Different Piece",
+        "rating": "4",
+        "commentedOn": "11/11/2016",
+        "username": "Frickin Head"
+      },
+      {
+        "text": "Another best one from lenovo",
+        "rating": "5",
+        "commentedOn": "12/11/2016",
+        "username": "Kinder John"
+      },
+      {
+        "text": "Flexible to fold",
+        "rating": "4",
+        "commentedOn": "12/05/2015",
+        "username": "Pope Matt"
+      }
+    ],
+    "offers": [
+      {
+        "type": "new",
+        "amount": 59000
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_33",
+    "name": "Razer Jet",
+    "price": 165000,
+    "description": "Best Gaming Laptop",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "Razer",
+    "RAM": "32GB",
+    "modelName": "Jet",
+    "color": "Black",
+    "img": "ELEC_PRD_33.jpg",
+    "webRating": 4,
+    "battery": "34500 mAh Li-Ion Battery",
+    "comments": [
+      {
+        "text": "Every Gamer's dream",
+        "rating": "5",
+        "commentedOn": "12/06/2015",
+        "username": "Jowey Kin"
+      },
+      {
+        "text": "Play Play Play!!",
+        "rating": "5",
+        "commentedOn": "06/05/2016",
+        "username": "Priston"
+      },
+      {
+        "text": "Coolest Features.. LED.. etc",
+        "rating": "5",
+        "commentedOn": "19/02/2016",
+        "username": "Barnaculus Nerd"
+      }
+    ],
+    "offers": [
+      {
+        "type": "refurbished",
+        "amount": 159000
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_34",
+    "name": "Dell",
+    "price": 65000,
+    "description": "OMINI 67",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "Dell",
+    "RAM": "2GB",
+    "modelName": "Omini",
+    "color": "Silver",
+    "img": "ELEC_PRD_34.jpg",
+    "webRating": 4,
+    "battery": "16500 mAh Li-Ion Battery",
+    "comments": [
+      {
+        "text": "Budget Laptop",
+        "rating": "4",
+        "commentedOn": "17/03/2015",
+        "username": "Anantha Ram"
+      },
+      {
+        "text": "Not many features",
+        "rating": "3",
+        "commentedOn": "05/05/2015",
+        "username": "Vincent"
+      },
+      {
+        "text": "Great Laptop!",
+        "rating": "5",
+        "commentedOn": "05/06/2015",
+        "username": "Tina"
+      }
+    ],
+    "offers": [
+      {
+        "type": "old",
+        "amount": 35000
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_35",
+    "name": "Hp",
+    "price": 48000,
+    "description": "Spectre",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "Hp",
+    "RAM": "4GB",
+    "modelName": "Spectre",
+    "color": "Gray",
+    "img": "ELEC_PRD_35.jpg",
+    "webRating": 4,
+    "battery": "18500 mAh Li-Ion Battery",
+    "comments": [
+      {
+        "text": "Not Bad",
+        "rating": "4",
+        "commentedOn": "18/12/2016",
+        "username": "Babylon"
+      },
+      {
+        "text": "Better than previous generation",
+        "rating": "4",
+        "commentedOn": "12/05/2015",
+        "username": "Justin"
+      },
+      {
+        "text": "Service is not good",
+        "rating": "2",
+        "commentedOn": "15/2/2015",
+        "username": "Dheeraj"
+      }
+    ],
+    "offers": [
+      {
+        "type": "old",
+        "amount": 35000
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_36",
+    "name": "Razer Pristine",
+    "price": 75999,
+    "description": "Go the distance : Venture away from the power outlet with confidence. With long-lasting battery life, this isn't finished until you are.",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "Razer",
+    "img": "ELEC_PRD_36.jpg",
+    "webRating": 0,
+    "battery": "16500 mAh Li-Ion Battery",
+    "RAM": "3GB",
+    "modelName": "Pristine",
+    "color": "Gold",
+    "camera": {
+      "front": "2MP"
+    },
+    "comments": [
+      {
+        "text": "Am impressed with the product and ease of handling good finish n feel",
+        "rating": 1,
+        "commentedOn": "15/01/17",
+        "username": "Shamith Doe"
+      },
+      {
+        "text": "Nice Laptop, price is higher than open market",
+        "rating": 1,
+        "commentedOn": "17/05/16",
+        "username": "Krishna Kumar"
+      },
+      {
+        "text": "Great Laptop with an amazing value for money.",
+        "rating": 1,
+        "commentedOn": "15/06/17",
+        "username": "Samarpan Kumar"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_37",
+    "name": "LG Pristine",
+    "price": 68000,
+    "description": "Confident performance: From surfing the web to editing videos, you can take on your day-to-day tasks with the responsive power of 5th Gen Intel CoreTM processors",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "LG",
+    "img": "ELEC_PRD_37.jpg",
+    "webRating": 0,
+    "battery": "34500 mAh Li-Ion Battery",
+    "RAM": "6GB",
+    "modelName": "Pristine",
+    "color": "Gold",
+    "camera": {
+      "front": "5MP"
+    },
+    "comments": [
+      {
+        "text": "This time got the product as per order not the wrong one",
+        "rating": 1,
+        "commentedOn": "01/01/17",
+        "username": "Shamith Kumar"
+      },
+      {
+        "text": "A Great Lappy",
+        "rating": 1,
+        "commentedOn": "05/12/16",
+        "username": "Samarpan Krishna"
+      },
+      {
+        "text": "Am impressed with the product and ease of handling good finish n feel",
+        "rating": 0,
+        "commentedOn": "13/06/17",
+        "username": "Tom Krishna"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_38",
+    "name": "LG Pavilion",
+    "price": 68000,
+    "description": "Perfect to the finest detail, the HD display gives you vivid colours and contrast for a lively viewing experience.",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "LG",
+    "img": "ELEC_PRD_38.jpg",
+    "webRating": 2,
+    "battery": "34500 mAh Li-Ion Battery",
+    "RAM": "4GB",
+    "modelName": "Pavilion",
+    "color": "Gold",
+    "camera": {
+      "front": "4MP"
+    },
+    "comments": [
+      {
+        "text": "Nice looking very good product",
+        "rating": 1,
+        "commentedOn": "12/05/16",
+        "username": "Manish Agarwal"
+      },
+      {
+        "text": "Got a free Hard disk, so happyyy!",
+        "rating": 1,
+        "commentedOn": "12/05/16",
+        "username": "Naresh Kunal"
+      },
+      {
+        "text": "Got a free Hard disk, so happyyy!",
+        "rating": 4,
+        "commentedOn": "17/05/16",
+        "username": "Tejamsh Krishna"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_39",
+    "name": "Asus Lifebook",
+    "price": 32000,
+    "description": "Go the distance : Venture away from the power outlet with confidence. With long-lasting battery life, this isn't finished until you are.",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "Asus",
+    "img": "ELEC_PRD_39.jpg",
+    "webRating": 2,
+    "battery": "18500 mAh Li-Ion Battery",
+    "RAM": "2GB",
+    "modelName": "Lifebook",
+    "color": "Gold",
+    "camera": {
+      "front": "2MP"
+    },
+    "comments": [
+      {
+        "text": "Am impressed with the product and ease of handling good finish n feel",
+        "rating": 0,
+        "commentedOn": "17/01/16",
+        "username": "Tejamsh Kumar"
+      },
+      {
+        "text": "The best Laptop in its range.meets all the requirements especially the fingerprint sensor. Clock speed it okay .",
+        "rating": 4,
+        "commentedOn": "12/05/16",
+        "username": "Indragani Raj"
+      },
+      {
+        "text": "This time got the product as per order not the wrong one",
+        "rating": 2,
+        "commentedOn": "12/12/16",
+        "username": "Divyam Meera"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_40",
+    "name": "Asus Jovial",
+    "price": 85000,
+    "description": "Elegantly Refined Boasts a stunning metal unibody with zero camera protrusion to ensure an overall ultra slim design. Its enlarged screen features flowing curved edges for optimal viewing and comfortable single handed use.",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "Asus",
+    "img": "ELEC_PRD_40.jpg",
+    "webRating": 0,
+    "battery": "18500 mAh Li-Ion Battery",
+    "RAM": "4GB",
+    "modelName": "Jovial",
+    "color": "White",
+    "camera": {
+      "front": "5MP"
+    },
+    "comments": [
+      {
+        "text": "Great Laptop with an amazing value for money.",
+        "rating": 2,
+        "commentedOn": "15/01/17",
+        "username": "Manish Doe"
+      },
+      {
+        "text": "The best Laptop in its range.meets all the requirements especially the fingerprint sensor. Clock speed it okay .",
+        "rating": 3,
+        "commentedOn": "05/05/16",
+        "username": "Diya Krishna"
+      },
+      {
+        "text": "My screen is not so clear...when. I play HD movie, some blur lines are displayed.",
+        "rating": 0,
+        "commentedOn": "15/07/16",
+        "username": "Divyam Jain"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_41",
+    "name": "Dell Thinkpad",
+    "price": 75999,
+    "description": "Crisp details and vibrant colors shine through as you access videos, photos and more. Built-in DVD drive: Burn your favorite playlist, watch movies and load software with an optional built-in DVD drive",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "Dell",
+    "img": "ELEC_PRD_41.jpg",
+    "webRating": 1,
+    "battery": "16500 mAh Li-Ion Battery",
+    "RAM": "4GB",
+    "modelName": "Thinkpad",
+    "color": "Gold",
+    "camera": {
+      "front": "4MP"
+    },
+    "comments": [
+      {
+        "text": "Great Laptop with an amazing value for money.",
+        "rating": 2,
+        "commentedOn": "05/12/16",
+        "username": "Divyam Agarwal"
+      },
+      {
+        "text": "Got a free Hard disk, so happyyy!",
+        "rating": 1,
+        "commentedOn": "12/05/16",
+        "username": "Samarpan Kunal"
+      },
+      {
+        "text": "This time got the product as per order not the wrong one",
+        "rating": 1,
+        "commentedOn": "12/05/16",
+        "username": "Simon Chaudary"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_42",
+    "name": "Samsung Omini",
+    "price": 52000,
+    "description": "Kick back and watch your favorite shows, or connect to your favorite sites and more with a spacious HD screen that offers room for multiple viewers to share at once.",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "Samsung",
+    "img": "ELEC_PRD_42.jpg",
+    "webRating": 2,
+    "battery": "18500 mAh Li-Ion Battery",
+    "RAM": "2GB",
+    "modelName": "Omini",
+    "color": "Black",
+    "camera": {
+      "front": "5MP"
+    },
+    "comments": [
+      {
+        "text": "My screen is not so clear...when. I play HD movie, some blur lines are displayed.",
+        "rating": 1,
+        "commentedOn": "12/05/16",
+        "username": "Peter Raj"
+      },
+      {
+        "text": "Nice Laptop, price is higher than open market",
+        "rating": 2,
+        "commentedOn": "12/05/16",
+        "username": "Divyam Kunal"
+      },
+      {
+        "text": "Nice Laptop, price is higher than open market",
+        "rating": 2,
+        "commentedOn": "15/07/16",
+        "username": "Samarpan Jain"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_43",
+    "name": "HTC IdeaPad",
+    "price": 75999,
+    "description": "Big entertainment, bold features, get your hands on a versatile 15'laptop packed with entertainment features that deliver an outstanding multimedia experience at an affordable price, with Ubuntu Linux OS - for a smooth, versatile PC experience.",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "HTC",
+    "img": "ELEC_PRD_43.jpg",
+    "webRating": 1,
+    "battery": "12600 mAh Li-Ion Battery",
+    "RAM": "3GB",
+    "modelName": "IdeaPad",
+    "color": "White",
+    "camera": {
+      "front": "2MP"
+    },
+    "comments": [
+      {
+        "text": "My screen is not so clear...when. I play HD movie, some blur lines are displayed.",
+        "rating": 3,
+        "commentedOn": "15/07/16",
+        "username": "Disha Chaudary"
+      },
+      {
+        "text": "The best Laptop in its range.meets all the requirements especially the fingerprint sensor. Clock speed it okay .",
+        "rating": 3,
+        "commentedOn": "15/07/16",
+        "username": "Divyam Agarwal"
+      },
+      {
+        "text": "Decent buy considering the price. An average performer. Comes bundled with a free Mcafee Security which is another addon.",
+        "rating": 0,
+        "commentedOn": "13/06/17",
+        "username": "Samarpan Meera"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_44",
+    "name": "HTC Pavilion",
+    "price": 65999,
+    "description": "Confident performance: From surfing the web to editing videos, you can take on your day-to-day tasks with the responsive power of 5th Gen Intel CoreTM processors",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "HTC",
+    "img": "ELEC_PRD_44.jpg",
+    "webRating": 0,
+    "battery": "13800 mAh Li-Ion Battery",
+    "RAM": "4GB",
+    "modelName": "Pavilion",
+    "color": "Gold",
+    "camera": {
+      "front": "5MP"
+    },
+    "comments": [
+      {
+        "text": "Nice looking very good product",
+        "rating": 1,
+        "commentedOn": "13/05/16",
+        "username": "Krishna Kunal"
+      },
+      {
+        "text": "Nice looking very good product",
+        "rating": 2,
+        "commentedOn": "12/05/16",
+        "username": "Krishna Patel"
+      },
+      {
+        "text": "Am impressed with the product and ease of handling good finish n feel",
+        "rating": 1,
+        "commentedOn": "12/05/16",
+        "username": "Shamith Jain"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_45",
+    "name": "Razer Jovial",
+    "price": 75999,
+    "description": "functionality and product specifications may be network dependent and subject to additional terms, conditions and charges. All are subject to change without notice.",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "Razer",
+    "img": "ELEC_PRD_45.jpg",
+    "webRating": 3,
+    "battery": "16500 mAh Li-Ion Battery",
+    "RAM": "2GB",
+    "modelName": "Jovial",
+    "color": "White",
+    "camera": {
+      "front": "4MP"
+    },
+    "comments": [
+      {
+        "text": "The best Laptop in its range.meets all the requirements especially the fingerprint sensor. Clock speed it okay .",
+        "rating": 3,
+        "commentedOn": "17/06/16",
+        "username": "Indragani Doe"
+      },
+      {
+        "text": "Best Laptop in market on a budget rating good features not more go try it & enjoy",
+        "rating": 2,
+        "commentedOn": "17/01/16",
+        "username": "Naresh Kumar"
+      },
+      {
+        "text": "A Great Lappy",
+        "rating": 2,
+        "commentedOn": "15/06/17",
+        "username": "Indragani Doe"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_46",
+    "name": "Motorola Aspire",
+    "price": 65999,
+    "description": "Big entertainment, bold features, get your hands on a versatile 15'laptop packed with entertainment features that deliver an outstanding multimedia experience at an affordable price, with Ubuntu Linux OS - for a smooth, versatile PC experience.",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "Motorola",
+    "img": "ELEC_PRD_46.jpg",
+    "webRating": 1,
+    "battery": "13800 mAh Li-Ion Battery",
+    "RAM": "3GB",
+    "modelName": "Aspire",
+    "color": "Gold",
+    "camera": {
+      "front": "5MP"
+    },
+    "comments": [
+      {
+        "text": "Great Laptop with an amazing value for money.",
+        "rating": 4,
+        "commentedOn": "17/05/16",
+        "username": "Simon Kumar"
+      },
+      {
+        "text": "Nice looking very good product",
+        "rating": 1,
+        "commentedOn": "17/06/16",
+        "username": "Peter Agarwal"
+      },
+      {
+        "text": "My screen is not so clear...when. I play HD movie, some blur lines are displayed.",
+        "rating": 0,
+        "commentedOn": "15/07/16",
+        "username": "Manish Doe"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_47",
+    "name": "Razer Inspiron",
+    "price": 32000,
+    "description": "Kick back and watch your favorite shows, or connect to your favorite sites and more with a spacious HD screen that offers room for multiple viewers to share at once.",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "Razer",
+    "img": "ELEC_PRD_47.jpg",
+    "webRating": 4,
+    "battery": "13800 mAh Li-Ion Battery",
+    "RAM": "2GB",
+    "modelName": "Inspiron",
+    "color": "White",
+    "camera": {
+      "front": "4MP"
+    },
+    "comments": [
+      {
+        "text": "Got a free Hard disk, so happyyy!",
+        "rating": 2,
+        "commentedOn": "17/06/16",
+        "username": "Samarpan Agarwal"
+      },
+      {
+        "text": "Excellent product no complaints .... best budget laptops for cs engineering students .... gifted my sister she is loving it",
+        "rating": 1,
+        "commentedOn": "12/05/16",
+        "username": "Divyam Patel"
+      },
+      {
+        "text": "This time got the product as per order not the wrong one",
+        "rating": 4,
+        "commentedOn": "12/05/16",
+        "username": "Tom Agarwal"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_48",
+    "name": "Samsung Jet",
+    "price": 40000,
+    "description": "Confident performance: From surfing the web to editing videos, you can take on your day-to-day tasks with the responsive power of 5th Gen Intel CoreTM processors",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "Samsung",
+    "img": "ELEC_PRD_48.jpg",
+    "webRating": 2,
+    "battery": "13800 mAh Li-Ion Battery",
+    "RAM": "4GB",
+    "modelName": "Jet",
+    "color": "Gold",
+    "camera": {
+      "front": "4MP"
+    },
+    "comments": [
+      {
+        "text": "My screen is not so clear...when. I play HD movie, some blur lines are displayed.",
+        "rating": 1,
+        "commentedOn": "15/06/17",
+        "username": "Shamith Jain"
+      },
+      {
+        "text": "The best Laptop in its range.meets all the requirements especially the fingerprint sensor. Clock speed it okay .",
+        "rating": 3,
+        "commentedOn": "12/05/16",
+        "username": "Tejamsh Chaudary"
+      },
+      {
+        "text": "Best Laptop in market on a budget rating good features not more go try it & enjoy",
+        "rating": 4,
+        "commentedOn": "15/07/16",
+        "username": "Manish Doe"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_49",
+    "name": "Samsung Lifebook",
+    "price": 75999,
+    "description": "Perfect to the finest detail, the HD display gives you vivid colours and contrast for a lively viewing experience.",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "Samsung",
+    "img": "ELEC_PRD_49.jpg",
+    "webRating": 4,
+    "battery": "13800 mAh Li-Ion Battery",
+    "RAM": "2GB",
+    "modelName": "Lifebook",
+    "color": "White",
+    "camera": {
+      "front": "4MP"
+    },
+    "comments": [
+      {
+        "text": "Got a free Hard disk, so happyyy!",
+        "rating": 0,
+        "commentedOn": "12/05/16",
+        "username": "Naresh Meera"
+      },
+      {
+        "text": "Am impressed with the product and ease of handling good finish n feel",
+        "rating": 2,
+        "commentedOn": "05/12/16",
+        "username": "Divyam Agarwal"
+      },
+      {
+        "text": "This product i have ordered i recieved on time, but there is print on it 'MADE IN CHINA'.",
+        "rating": 0,
+        "commentedOn": "18/06/16",
+        "username": "Tom Jain"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_50",
+    "name": "Razer Omini",
+    "price": 40000,
+    "description": "Big entertainment, bold features, get your hands on a versatile 15'laptop packed with entertainment features that deliver an outstanding multimedia experience at an affordable price, with Ubuntu Linux OS - for a smooth, versatile PC experience.",
+    "type": "Electronics",
+    "subType": "laptop",
+    "brand": "Razer",
+    "img": "ELEC_PRD_50.jpg",
+    "webRating": 3,
+    "battery": "18500 mAh Li-Ion Battery",
+    "RAM": "6GB",
+    "modelName": "Omini",
+    "color": "White",
+    "camera": {
+      "front": "4MP"
+    },
+    "comments": [
+      {
+        "text": "Excellent product no complaints .... best budget laptops for cs engineering students .... gifted my sister she is loving it",
+        "rating": 1,
+        "commentedOn": "05/05/16",
+        "username": "Simon Chaudary"
+      },
+      {
+        "text": "This product i have ordered i recieved on time, but there is print on it 'MADE IN CHINA'.",
+        "rating": 3,
+        "commentedOn": "05/05/16",
+        "username": "Divyam Kunal"
+      },
+      {
+        "text": "Great Laptop with an amazing value for money.",
+        "rating": 0,
+        "commentedOn": "15/07/16",
+        "username": "Tejamsh Patel"
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_51",
+    "name": "One Indian Girl",
+    "price": 70,
+    "description": "Hi, I'm Radhika Mehta and I'm getting married this week. I work at Goldman Sachs, an investment bank. Thank you for reading my story. However, let me warn you. You may not like me too much.One, I make a lot of money.",
+    "type": "Books",
+    "subType": "Fiction",
+    "author": "Chetan Bhagat",
+    "language": "English",
+    "webRating": 5,
+    "img": "ELEC_PRD_51.jpg",
+    "aboutAuthor": "Chetan Bhagat is the author of eight blockbuster books. These include six novels - Five Point Someone (2004), One Night @ the Call Center (2005), The 3 Mistakes of My Life (2008), 2 States (2009), Revolution 2020 (2011), Half Girlfriend (2014) - and the non-fiction titles, What Young India Wants (2012) and Making India Awesome (2015).",
+    "comments": [
+      {
+        "text": "You are a nice writer sir",
+        "rating": "4",
+        "commentedOn": "19/12/2016",
+        "username": "Babylon"
+      },
+      {
+        "text": "Buy any other book from F-Assured and then you will get this book for just Rupees1. Truly what Chetan Bhagat book deserves.",
+        "rating": "3",
+        "commentedOn": "12/05/2015",
+        "username": "Justin"
+      },
+      {
+        "text": "Why all of u giving 1 star. This book is available in just 1 rupee so its a 5 star product. The big billion day is back...",
+        "rating": "2",
+        "commentedOn": "15/2/2015",
+        "username": "Dheeraj"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_52",
+    "name": "PALACE OF ILLUSIONS",
+    "price": 180,
+    "description": "The Palace Of Illusions is a modern retelling of the epic Mahabharata, through the eyes of Panchaali (Draupadi), the wife of the famous Pandava brothers. Divakaruni has rewritten this epic from a female perspective. The focus of the story has shifted from the original war and honour, to more humanistic concerns. It is an epic saga, surrounding the events of Panchali’s life, while growing up in a male dominated world. The Mahabharata is a narrative about the Kurukshetra war between two families, the Pandavas and the Kauravas.Panchali is the protagonist of Divakaruni's story. She is a young girl born out of a special fire ritual that was performed by her father, King Drupada. Right from the start, she leads a lonely and unusual life, without the care of a mother. Her sole companion is her brother, Dhristadhyumna, who was also born out of fire. Panchaali is characterized as an atypical female as she is a woman who is outspoken, self confident, and defiant. She is also interested in the art of warfare and the politics of monarchy.",
+    "type": "Books",
+    "subType": "Fiction",
+    "author": "Vittal",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_52.jpg",
+    "aboutAuthor": "Chitra Banerjee Divakaruni is a poet, author, and professor of writing at the University of Houston. Her writing repertoire covers numerous genres. Some of her published titles are Black Candle, Leaving Yuba City, The Brotherhood Of The Conch, and Shadowland.Apart from writing, Divakaruni is the former president of Maitri, a helpline geared for South Asian women who are experiencing domestic abuse. She is also a board member of Pratham, a non profit organization which tries to bring literacy to underprivileged Indian children. Divakaruni is married to Murthy, and lives in Houston, Texas, with their two sons.",
+    "comments": [
+      {
+        "text": "Panchaali had a unique life and a unique destiny - and she was indeed born to change the course of history. However, the book tells you the story of the great Indian epic that has been remembered for its heroes and Krishna from a woman's point of view. The characters come alive as the protagonists husbands and friends and the story unfolds as the character break the barriers of their prototype historical persona.",
+        "rating": "4",
+        "commentedOn": "1/1/2016",
+        "username": "lon"
+      },
+      {
+        "text": "Draupadi with her unique destiny, born with a purpose is a key character in the Epic.In TPOI, the author makes a brave attempt to decode the elusiveness of Draupadi, by a narrative from the protagonist who herself is entangled in the author's pursuit.",
+        "rating": "3",
+        "commentedOn": "12/05/2015",
+        "username": "Ved"
+      },
+      {
+        "text": "Takes some getting used to, but the idea is sound and the flow is smooth. Looking from another perspective should never entail relooking at the entire story, but only reimagining it from the point of view of a new character. The lessons learnt should remain and each new version should add to the pool of knowledge, not redact from it.",
+        "rating": "4",
+        "commentedOn": "5/2/2015",
+        "username": "Dhee"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_54",
+    "name": "The Man Who Knew Infinity",
+    "price": 170,
+    "description": "Srinivasa Ramanujan was an enigma during his lifetime and continues to be one, even today. Ramanujan was born into a poor Brahmin family in Madras, and his parents were financially unable to support him after his initial schooling, which is one of life’s little ironies, since his contributions to the world of mathematics are inspiring and brilliant.",
+    "type": "Books",
+    "subType": "Fiction",
+    "author": "Robert Kanigel",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_54.jpg",
+    "aboutAuthor": "Robert Kanigel is a Brooklyn-born biographer and science writer. After completing a B.S. in Mechanical Engineering, he began freelance writing in 1970 and published his first book in 1986.Kanigel’s writings, however, are not confined to books, and he has published over 400 articles, essays and reviews, appearing in magazines like Johns Hopkins Magazine, Baltimore Sun, The New York Times Magazine, The Washington Post, Science 85, and Human Behavior. As an author, he wrote many books, including Apprentice To Genius: The Making of a Scientific Dynasty, The One Best Way: Frederick Winslow Taylor and the Enigma of Efficiency, High Season: How One French Riviera Town Has Seduced Travelers for Two Thousand Years, and On An Irish Island.",
+    "comments": [
+      {
+        "text": "By far the best scientific biography I ever read.It's a magical story,of a person whose life and story almost sound mythical,a person who continues to be a source of inspiration for people around the world who are familiar with him.And it is a story told in a very engaging way by Robert Kanigel.The exhaustive research he did is remarkable.",
+        "rating": "5",
+        "commentedOn": "9/2/2014",
+        "username": "Babylara"
+      },
+      {
+        "text": "This review is NOT about the contents of this book - of course that is of very high quality. But the item is miserbale in production quality. Very bad quality pages and equally bad printing. I think for Rs. 395/- it was really being fooled by hachette India who are publishing it specially for Indian readers.",
+        "rating": "1",
+        "commentedOn": "1/05/2011",
+        "username": "Tin"
+      },
+      {
+        "text": "Excellent read & a well researched book. The genius of Ramanujan is perplexing. A bit sad that he had to die so young. Can't imagine what he'd have done living a few more years in good health. A must read for any math fan - strongly recommended!",
+        "rating": "1",
+        "commentedOn": "1/2/2015",
+        "username": "Raj"
+      }
+    ],
+    "offers": [
+      {
+        "type": "exchange",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_55",
+    "name": "Train To Pakistan ",
+    "price": 250,
+    "description": "Mano Majra is a village that suddenly becomes part of a border between two countries. The population of the village is predominantly Sikh and Muslim. When news of communal riots and killings reach the village, the different communities express their support for each other and swear to defend one another. However, external influences are just waiting around the corner to disturb this idyllic harmony.",
+    "type": "Books",
+    "subType": "Biography",
+    "author": "Khushwanth Singh",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_55.jpg",
+    "aboutAuthor": "Chetan Bhagat is the author of eight blockbuster books. These include six novels - Five Point Someone (2004), One Night @ the Call Center (2005), The 3 Mistakes of My Life (2008), 2 States (2009), Revolution 2020 (2011), Half Girlfriend (2014) - and the non-fiction titles, What Young India Wants (2012) and Making India Awesome (2015).",
+    "comments": [
+      {
+        "text": "I read Train to Pakistan years ago, right back when I was in college. I can still never forget the novel, which is undoubtedly one of my favourite Indian novels in English.Khushwant Singh is a daring story-teller. He manages to remain one of the few who refrain from much of the linguistic pomp, glamour, and political pretense that dogs Indian English writers.",
+        "rating": "5",
+        "commentedOn": "9/12/2014",
+        "username": "Jeeva"
+      },
+      {
+        "text": "Train To Pakistan is a historical novel by Khushwant Singh. thus I recommend it to every Indian who is interested in reading. Read it in English or read it in Hindi, for that that matter read it in any language you like but do read this heart-rending story of a forgotten time.",
+        "rating": "5",
+        "commentedOn": "12/04/2015",
+        "username": "Justin"
+      },
+      {
+        "text": "To say about this book, not many authors can write from their heart. Kushwant Singh is one who can do it all the time. The way he explains the nature of each character is breathtaking.He has taken extra care to clearly paint our imagination...",
+        "rating": "5",
+        "commentedOn": "1/2/2015",
+        "username": "Dheeru"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_56",
+    "name": "Oxford School Atlas",
+    "price": 390,
+    "description": "Oxford University Press is a renowned publishing house that develops and publishes high quality textbooks, scholarly works, and academic books for school courses, bilingual dictionaries and also digital materials for both learning and teaching. It is a division of the University of Oxford. The first book was locally published in the year 1912. Some of the books published under their banner are India’s Ancient Past, Atkins’ Physical Chemistry, Companion to Politics in India, Sociology: Themes and Perspectives and Common Mistakes at IELTS Advanced…and How to Avoid Them.",
+    "type": "Books",
+    "subType": "Fiction",
+    "author": "OXFORD",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_56.jpg",
+    "aboutAuthor": "Oxford School Atlas 34th Edition is a comprehensive book that consists of the latest and most reliable data. It comprises of many highly detailed maps. It also includes recent developments and is useful to any student.",
+    "comments": [
+      {
+        "text": "The major concern is the CD provided along with the atlas does not have any one of the things described. It is no way related to the atlas and it only contains some silly crosswords, glossary and some puzzles for students of class 3. But the description says the CD contains Census 2011 stats for each indian district, 53 Urban area maps of india, historical maps of india etc etc. I feel completely cheated by Oxford university press.",
+        "rating": "5",
+        "commentedOn": "19/12/2016",
+        "username": "Babylon"
+      },
+      {
+        "text": "Geography students or otherwise( UPSC aspirants) should definitely have this atlas. Covers almost all topics.",
+        "rating": "5",
+        "commentedOn": "12/05/2015",
+        "username": "Justin"
+      },
+      {
+        "text": "I WONT ELABRATE......I HAD A ATLAS BEFORE......SO I WAS APPREHENSIVE BEFORE BUYING IT......IT IS WORTHY OF EACH PENNY I SPENT.....AWESOME DETAILS IN THE BOOK..AND SO IS THE CD.....NEEDLESS TO SAY ABOUT THE TIMELY DELIVERY AND PACKAGING AS IT IS ALWAYS GOOD",
+        "rating": "5",
+        "commentedOn": "15/2/2015",
+        "username": "Dheeraj"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_57",
+    "name": "An Unsuitable Boy",
+    "price": 870,
+    "description": "Karan Johar is synonymous with success, panache, quick wit and outspokenness, which sometimes inadvertently creates controversy and makes headlines. KJo, as he is popularly called, has been a much-loved Bollywood film director, producer, actor and discoverer of new talent. With his flagship Dharma Production, he has constantly challenged the norms, written and rewritten rules and set trends. But who is the man behind the icon that we all know? Baring all for the first time in his autobiography, An Unsuitable Boy, KJo reminisces about his childhood, the influence of his Sindhi mother and Punjabi father, obsession with Bollywood, foray into films, friendships with Aditya Chopra, SRK and Kajol, his love life, the AIB Roast and much more. In his trademark frank style, he talks about the ever - changing face of Indian cinema, challenges and learning's, as well as friendships and rivalries in the industry. Honest, heart-warming and insightful, An Unsuitable Boy is both the story of the life of an exceptional film-maker at the peak of his powers and of an equally extraordinary human being who shows you how to survive and succeed in life.",
+    "type": "Books",
+    "subType": "Biography",
+    "author": "Poonam Saxena",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_57.jpg",
+    "aboutAuthor": "Poonam Saxena is a journalist with Hindustan Times, where she is the editor of the Sunday magazine. She did her BA and MA in history from St. Stephen's College, Delhi and went on to do an MPhil from Delhi University. She has been a journalist for almost twenty years, first as a freelancer and then as features editor with newspapers such as the Asian Age. She wrote a popular TV review column in the Hindustan Times called Small Screen for almost ten years. She recently translated Gunahon ka Devta, acclaimed Hindi writer Dharamvir Bharati's iconic 1949 novel into English (Chander & Sudha, Penguin Viking), the translation has received glowing reviews.",
+    "comments": [
+      {
+        "text": "Nice",
+        "rating": "2",
+        "commentedOn": "5/1/2017",
+        "username": "Backspace"
+      },
+      {
+        "text": "Useless book on a person who got all served and then pretends he made it happen!!! Waste of money.",
+        "rating": "1",
+        "commentedOn": "1/01/2017",
+        "username": "kichu"
+      },
+      {
+        "text": "Wastage of money and nothing else.. kind suggestion please don't buy ...",
+        "rating": "1",
+        "commentedOn": "12/1/2017",
+        "username": "Dhruva"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 7
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_58",
+    "name": "Great Stories for Children",
+    "price": 270,
+    "description": "The short stories featured in this book introduce readers to new worlds and interesting people. First up, there's Tutu, the monkey who loves to stir up trouble for Aunt Ruby. Aunt Ruby becomes enraged when he runs off with her precious necklace. Will she manage to get it back? In another story, a pet python suddenly shows up in the most unexpected places, causing mayhem as he appears.Then comes a naughty ghost who amuses himself by riling up the residents of the house, whenever he is bored. The book has a story where the protagonists, three children, are stranded and forced to wait out a storm on a haunted hill.",
+    "type": "Books",
+    "subType": "Fiction",
+    "author": "Ruskin Bond",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_58.jpg",
+    "aboutAuthor": "He is of British descent and was born in 1934 in India. He studied at Shimla and won many writing competitions at school. When he went to London after his schooling, he began penning his first novel. He has been the recipient of prestigious awards like the Padma Shri and the Sahitya Akademi Award. He played an important role in shaping children's literature in India.",
+    "comments": [
+      {
+        "text": "A simple yet great book for kids.I bought it for my 12 year old brother and he is so engrossed reading it.",
+        "rating": "5",
+        "commentedOn": "19/12/2016",
+        "username": "Sam"
+      },
+      {
+        "text": "A very nice book for children. Gifted it to my cousin and he liked it. The assortment of the short stories also welll selected.",
+        "rating": "5",
+        "commentedOn": "12/05/2016",
+        "username": "Ravi"
+      },
+      {
+        "text": "A story collection should make a reader to hook the book, how? I got the answer after reading this collection. Ruskin Bond with his style of wit and humour writes on pets, nature, tress, bear, leopard, tiger and above all ghosts. I am sure readers will enjoy this collection.",
+        "rating": "5",
+        "commentedOn": "15/2/2015",
+        "username": "Raju"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_59",
+    "name": "The Avengers",
+    "price": 40,
+    "description": "Welcome to The Avengers Initiative S.H.I.E.L.D. Director Nick Fury has brought together earth's mightiest heroes to form The Avengers. These are the top secret S.H.I.E.L.D. files on Captain America, Iron Man, Thor, Hulk, Hawkeye and Black Widow. But what kind of threat would cause Fury to call six super heroes and not just one?",
+    "type": "Books",
+    "subType": "Comics",
+    "author": "Scott Peterson",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_59.jpg",
+    "aboutAuthor": "Scott Peterson",
+    "comments": [
+      {
+        "text": "WORST BOOK.No need to buy it if u already know who the avengers are. It only has the introduction of the characters.",
+        "rating": "1",
+        "commentedOn": "11/06/2016",
+        "username": "Babylon"
+      },
+      {
+        "text": "worst book has only information about the marvel characters and nothing else ... Why buy a whose story is always known",
+        "rating": "1",
+        "commentedOn": "13/04/2015",
+        "username": "Justin"
+      },
+      {
+        "text": "Very Bad",
+        "rating": "1",
+        "commentedOn": "30/12/2015",
+        "username": "Dheeraj"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_60",
+    "name": "Dork Diaries : Once Upon a Dork",
+    "price": 18,
+    "description": "The Queen of the Dorks is back in a brand new instalment of the internationally bestselling series, now with 13 million copies in print worldwide! After a bump on the head, Nikki has a wild dream in which she, her BFF's Chloe and Zoey, her crush Brandon and mean girl Mackenzie all end up playing the roles of some familiar classic fairy tale characters. Will Nikki's dream turn into a nightmare?",
+    "type": "Books",
+    "subType": "Comics",
+    "author": "Rachel Renee Russell",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_60.jpg",
+    "aboutAuthor": "- ",
+    "comments": [
+      {
+        "text": "It's an awesome book for a growing teenager. When you read it, you can totally relate to your feelings and thoughts. As you read, you can understand what the author means to say because it's exactly what we feel about someone or anything. All the way while I was reading it I was all like, Hey, I have felt the same thing...!. I enjoyed this book a lot and I am looking forward to reading all the books of this series...It was a total entertainer for me. I loved it!",
+        "rating": "5",
+        "commentedOn": "27/06/2016",
+        "username": "Akhi"
+      },
+      {
+        "text": "this book is a great read for pre-teens and teens...i have a huge demand of dork diaries in my class...strongly recommended...thnnx flipkart :)",
+        "rating": "4",
+        "commentedOn": "12/05/2015",
+        "username": "Ali"
+      },
+      {
+        "text": "Amazing book...I just loved it ...the most amazing thing is the pictures it has pictures all over the book and it was just fun...I couldn't control myself and completed the book in just two days....too good...thx flipkart...",
+        "rating": "3",
+        "commentedOn": "19/02/2015",
+        "username": "Sri"
+      }
+    ],
+    "offers": [
+      {
+        "type": "none",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_61",
+    "name": "Naruto",
+    "price": 50,
+    "description": "Tsunade sends a team to hunt down the conflicted Sasuke. Are Naruto, Neji and the others capable of beating the Sound Ninja Four, who already have Sasuke in their clutches? They have no choice but to find out!",
+    "type": "Books",
+    "subType": "Comics",
+    "author": "Masashi",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_61.jpg",
+    "aboutAuthor": "-",
+    "comments": [
+      {
+        "text": "Nice",
+        "rating": "4",
+        "commentedOn": "06/04/2016",
+        "username": "Pandu"
+      },
+      {
+        "text": "One of a kind",
+        "rating": "5",
+        "commentedOn": "12/04/2015",
+        "username": "Julie"
+      },
+      {
+        "text": "Its a treat for naruto fans",
+        "rating": "4",
+        "commentedOn": "07/03/2016",
+        "username": "Dhanush"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 7
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_62",
+    "name": "Akhada : The Biography of Mahavir Singh Phogat ",
+    "price": 140,
+    "description": "The inspiring life story of one of India�s greatest wrestling coaches. In 2000, after the Olympic Games closed with much fanfare in Sydney, legendary wrestler Mahavir Singh Phogat watched, dejected and heartbroken, as the prize reserved by his state government for winners of Olympic medals in wrestling were left unclaimed. Determined to never see this instance repeated, Phogat decided to do the unthinkable.",
+    "type": "Books",
+    "subType": "Biography",
+    "author": "Saurabh Duggal",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_62.jpg",
+    "aboutAuthor": "Chetan Bhagat is the author of eight blockbuster books. These include six novels - Five Point Someone (2004), One Night @ the Call Center (2005), The 3 Mistakes of My Life (2008), 2 States (2009), Revolution 2020 (2011), Half Girlfriend (2014) - and the non-fiction titles, What Young India Wants (2012) and Making India Awesome (2015).",
+    "comments": [
+      {
+        "text": "Inspiring",
+        "rating": "4",
+        "commentedOn": "25/2/2016",
+        "username": "Ria"
+      },
+      {
+        "text": "What a great man",
+        "rating": "3",
+        "commentedOn": "15/05/2015",
+        "username": "Justin"
+      },
+      {
+        "text": "Superb",
+        "rating": "4",
+        "commentedOn": "15/2/2015",
+        "username": "Dheeraj"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_63",
+    "name": "One Indian Girl",
+    "price": 70,
+    "description": "Twenty-five years after his death, the poet Faiz Ahmed Faiz continues to be as relevant as ever; in fact, the revolutionary and seductive appeal of his poetry has only increased with time. He is no longer just a Pakistani poet, nor just a poet from the Indian subcontinent, but belongs to the whole world. The year 2012 is Faiz’s hundredth birth anniversary, and on this occasion, this book is the fondest tribute that could have been put together – for it is from the poet’s family itself.",
+    "type": "Books",
+    "subType": "Biography",
+    "author": "Ali Madeeh Hashmi",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_63.jpg",
+    "aboutAuthor": "Ali Madeeh Hashmi is the grandson of Faiz, a psychiatrist practising in Lahore and a trustee of Faiz Foundation Trust and Faiz Ghar, Lahore.",
+    "comments": [
+      {
+        "text": "Faiz saheb is my favourite shair. I had earlier read some of his works but I had very little idea about his personal life .This book gives a sneak peek into the life and times of the great revolutionary poet .There are black and white photographs which lend it a quaint effect .",
+        "rating": "5",
+        "commentedOn": "14/06/2016",
+        "username": "Jai"
+      },
+      {
+        "text": "Amazingly well written and well illustrated book about one of the greatest poet ever. It highlights the effect a pen can have on shaping the society, a nation. Loved it.",
+        "rating": "4",
+        "commentedOn": "18/02/2016",
+        "username": "Juhi"
+      },
+      {
+        "text": "One of A kind...",
+        "rating": "3",
+        "commentedOn": "16/3/2015",
+        "username": "Dhanush"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_64",
+    "name": "A Little Book of Life",
+    "price": 160,
+    "description": "In this book, Ruskin Bond very skillfully puts together some of his most cherished and best-loved quotations and sayings. A Little Book of Life, as the title says is a book, which has all the elements of life, and is sure to make the readers sit back and smile. In the book, Ruskin Bond presents his thoughts on nature, love, money, family, friendship, enemies and in short, all the little elements that sum up our lives",
+    "type": "Books",
+    "subType": "Fiction",
+    "author": "Ruskin Bond",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_64.jpg",
+    "aboutAuthor": "Ruskin Bond is an Indian author of British descent. He has been writing novels, poems, essays and short stories for over forty years now. He was awarded the John Llewellyn Rhys Memorial Prize in 1957, The Sahitya Akademi Award in 1993, and the Padma Shri in 1999. He was also honored with a Lifetime Achievement Award by the Government of Delhi in 2012. His works include:The Room on the Roof, Vagrants in the Valley, Scenes from a Writer's Life, A Flight of Pigeons, Landour Days – A writers Journal, The Sensualist, The Road To The Bazaar, and The Panther's Moon, only to name a very few.",
+    "comments": [
+      {
+        "text": "Waited for months but after going through this book in sapna book house decided not to buy. Its hardcover, feels heavy in pocket. Only two quotes per page hence empty spaces between, could have been made this book shorter. Half of the quotes are said by others. Only few quotes stuck in my mind.",
+        "rating": "5",
+        "commentedOn": "10/1/2015",
+        "username": "Irwin"
+      },
+      {
+        "text": "The book is very small, but it does't fit you pocket. It contains 168 pages, in which each page contains only two proverbs with an average of four to five lines. Some pages are presented with empty lines for you to take notes. I don't know whats the use of those empty lines, since I does't like writing on a book and don't have anything to scribble.",
+        "rating": "1",
+        "commentedOn": "09/04/2015",
+        "username": "yale"
+      },
+      {
+        "text": "there are lot of books which inspire you or motivates you in tough times but this one will give you an attitude to see through those troubles or tough times through out your life..this is not a one time read and through away book .....its like a books that you will surely feel like carrying all day along with you.",
+        "rating": "5",
+        "commentedOn": "21/04/2016",
+        "username": "sweety"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_65",
+    "name": "A Brief History Of Time",
+    "price": 550,
+    "description": "A Brief History of Time, authored by the legendary theoretical physicist Stephen Hawking, is considered to be the holy grail of populalizing scientific writing and ever since it was published for the first time in 1988, the book has been an ultimate guide to both scientific and non-scientific communities searching for answers to the most fundamental questions.",
+    "type": "Books",
+    "subType": "Biography",
+    "author": "Stefen Hawking",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_65.jpg",
+    "aboutAuthor": "Stephen Hawking is considered to be one of the greatest living minds existing. Born to an English family on the 300th death anniversary of Galileo, Stephen Hawking has his alma mater in the Oxford and Trinity Hall, Cambridge. After an extensive work in physics and cosmology, in his early age itself he was showing a great potential in becoming one of the leading scientists in the field. When he was 21 he was diagnosed with Amyotrophic Lateral Sclerosis, a progressive motor neuron disease which destroyed the ability of his muscles to move and respond. It deteriorated with time and resulting in losing almost complete capability to move his body, but his brain continued to marvel with his extraordinary theories and thoughts. In 1974 he stunned the scientific community with his thesis on black holes, now famously called as Hawking Radiation. ",
+    "comments": [
+      {
+        "text": "Stephen Hawking, an unseemly man for a Scientist, and an ALS patient (Who was, at one time, given only 2 more years to live), walks us through the corridors of physical science and astronomy with such ease and talent. He may very well be the Einstein or Newton of our time (It's interesting that Hawking's lifetime achievement, The discovery of 'The Big Bang', defied Einstein's theories themselves).",
+        "rating": "4",
+        "commentedOn": "14/06/2016",
+        "username": "Pareesh"
+      },
+      {
+        "text": "First of all I thank Stephen Hawkings for writing this wonderful book. I have never seen a science book as simple as this. Its truely great. He has explained nearly everything except the theory of everything which he has left to us, the younger generations to uncover it. This book really tempts me to take a career of science. I cant express how easy it is. From Ptolemy to Himself, he has explained the evolution of science step by step.The book is such a fine piece that everyone should buy.",
+        "rating": "4",
+        "commentedOn": "12/03/2015",
+        "username": "Qutub"
+      },
+      {
+        "text": "this book by stephen hawkins answers various questions related to space and time and and much more to quench ones curiosity....",
+        "rating": "3",
+        "commentedOn": "16/05/2015",
+        "username": "Oya"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_66",
+    "name": "Jim Corbett of Kumaon",
+    "price": 670,
+    "description": "Born in Naini Tal and having spent most of his life in the hills of Kumaon, Jim Corbett has always been close to nature. He is considered a hero for keeping the forested area intact and tracking and killing man-eating leopards. Jim Corbett of Kumaon is an exhaustive biography of this fearless and great man. It showcases the life and world of Corbett with unrivaled knowledge and utmost authenticity. This book will make for a riveting and engaging read for all nature lovers and those interested to know more about Jim Corbett.",
+    "type": "Books",
+    "subType": "Biography",
+    "author": "DC Kala",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_66.jpg",
+    "aboutAuthor": "D. C. Kala was a news editor with a leading paper and an author. He also wrote the biography of Frederick Pahari Wilson, who was a hunter and timber magnate and operated in the Bhagirathi valley.",
+    "comments": [
+      {
+        "text": "Durga Charan Kala spent his life in searching for Corbett stories and the things belonging to him . This life time of association has made this book a treasure trove of facts on Carpett sahib. Writer's journalistic credentials are reflected in careful collection and arraying of facts and events in the book. ",
+        "rating": "3",
+        "commentedOn": "21/07/2016",
+        "username": "Jwala"
+      },
+      {
+        "text": "Just started with the book, the writing is great and has a whiff of Corbett's own writing... Added with a couple of not earlier seen photos make this book a must have.",
+        "rating": "5",
+        "commentedOn": "08/08/2015",
+        "username": "Justin"
+      },
+      {
+        "text": "loved reading this book",
+        "rating": "2",
+        "commentedOn": "14/04/2015",
+        "username": "Dheeraj"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 9
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_67",
+    "name": "The Alchemist ",
+    "price": 390,
+    "description": "This book contains detailed notes on The Alchemist, Paulo Coelho’s most famous novel. It includes a complete glossary, detailed analysis for readers and more. This book will prove useful to readers who are preparing a literary critique of the novel, or studying the novel for its plot. It also includes detailed study questions, quizzes and other important features which will help students absorb the textual matter of the book with ease and help them prepare for a review. In the nature of all SparkNotes books, this book also delves into the motifs, symbols and essay topics within the novel.",
+    "type": "Books",
+    "subType": "Fiction",
+    "author": "Paulo Coelho",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_67.jpg",
+    "aboutAuthor": "Paulo Coelho is a Brazilian novelist and lyricist known for novels such as The Alchemist, Veronika Decides to Die, Brida and The Zahir.Coelho’s life story has been adapted into a film entitled The Pilgrim — the Best Story of Paulo Coelho or Não Pare na Pista. The film was directed by Daniel Augusto.",
+    "comments": [
+      {
+        "text": "When you really want something, the whole universe conspires in helping you achieve it.The whole fable circumnavigate in the vicinity of the above adduce. The Alchemist is an audacious and cogitative story (written as fable) of Santiago, an Andalusian shepherd boy,who like all of us, is in search for his destiny. ",
+        "rating": "4",
+        "commentedOn": "01/03/2016",
+        "username": "Kim"
+      },
+      {
+        "text": "It's a fable about a person who wants to turn his dream into reality.The book describes everything in story form, which is needed to turn one's goal or dream into reality.The story is written in very simple words and is very interesting.",
+        "rating": "3",
+        "commentedOn": "2/05/2015",
+        "username": "Ananya"
+      },
+      {
+        "text": "To start with I have to say that though i am an avid reader but i hadn't read any serious novels before this one.Only Chetan Bhagat was the one i managed to complete.After reading this and if you are able to implement its teachings, your life will change completely.",
+        "rating": "5",
+        "commentedOn": "03/07/2016",
+        "username": "Ojon"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_68",
+    "name": "Harry Potter and the Cursed Child - Parts I and II",
+    "price": 470,
+    "description": "Based on an original new story by J. K. Rowling, Jack Thorne and John Tiffany, Harry Potter and the Cursed Child, a new play by Jack Thorne, is the first official Harry Potter story to be presented on stage. It will receive its world premiere in London's West End on 30th July 2016.",
+    "type": "Books",
+    "subType": "Fiction",
+    "author": "J. K. Rowling",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_68.jpg",
+    "aboutAuthor": "J. K. Rowling is the author of the bestselling Harry Potter series of seven books, published between 1997 and 2007, which have sold over 450 million copies worldwide, are distributed in more than 200 territories and translated into 79 languages and have been turned into eight blockbuster films.",
+    "comments": [
+      {
+        "text": "No need to write anything after all it's Harry Potter",
+        "rating": "5",
+        "commentedOn": "04/02/2016",
+        "username": "Jaya"
+      },
+      {
+        "text": "Like millions of potter fans all over, I pre-ordered this book without even reading what it was and lo-behold, the first shock when you receive this book is that this is not a novel.It is a play script and that also not written by Rowling but some other writers. But still controlling myself, I made myself go through the book in one sitting. It is that small. ",
+        "rating": "2",
+        "commentedOn": "15/06/2015",
+        "username": "Bani"
+      },
+      {
+        "text": "Actually Potterheada who are thinking that they will like the story line...first of a ITS NOT A STORY,ITS A SCRIPT WHICH WILL HAVE DIALOGUES ONLY And also if u r thinking to buy it ,Go ahead .~~~Potterhead???",
+        "rating": "4",
+        "commentedOn": "04/02/2017",
+        "username": "Chetan"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 7
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_69",
+    "name": "The Sialkot Saga",
+    "price": 270,
+    "description": "When it's a question of money, everybody is of the same religion. The trajectories of Arvind and Arbaaz, both businessmen of a kind whose lives are unwillingly intertwined, ricochet off one another while they play out their sinister and murderous plots of personal and professional one-upmanship, all the while breaking every rule in the book. Both are unaware that what they seek and fight over is the very obstacle in realising an ancient secret that dates back to a time long forgotten. And yet, at the heart of it al, there lies tenderness and pathos and blood and rare moments of an almost exalted happiness. So, can it be that a man is both sinner and saint, victor and victim, black and white? Ashwin Sanghi, master storyteller and spinner of yarns, weaves together once more threads of the past and present, fact and fiction, history and mythology, business and politics, love and hatred while dangling you ceaselessly over the cliff with this chilling multi-layered narrative, keeping you guessing till the totally unguessable end. And you're left wondering whether it's a matter of faith or fate?",
+    "type": "Books",
+    "subType": "Fiction",
+    "author": "Ashwin Sanghi",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_69.jpg",
+    "aboutAuthor": "Chetan Bhagat is the author of eight blockbuster books. These include six novels - Five Point Someone (2004), One Night @ the Call Center (2005), The 3 Mistakes of My Life (2008), 2 States (2009), Revolution 2020 (2011), Half Girlfriend (2014) - and the non-fiction titles, What Young India Wants (2012) and Making India Awesome (2015).",
+    "comments": [
+      {
+        "text": "Being regarded as the Master Storyteller, Ashwin Sanghi through this book has proved hat he certainly deserves the title. I am not going to talk about the whole story here because it would otherwise defeat the very purpose of writing this review because I feel readers has to buy the book in order to appreciate the hard work and efforts put down by the author in penning such a wonderful classic which comprised past history with the present events. To reveal the truth, I took few pages of notes since this is a 584 page story which took me almost 2.5 days to complete(since there was a Festival on 8/4/16) and when I started writing this review, I felt, I could hardly use only 10% of it.",
+        "rating": "4",
+        "commentedOn": "19/12/2016",
+        "username": "Manga"
+      },
+      {
+        "text": "A good book...but not as gripping as his previous work.",
+        "rating": "4",
+        "commentedOn": "1/04/2014",
+        "username": "Bharti"
+      },
+      {
+        "text": "The book takes you back to all the major political turn in the Indian history and connects each dot and comes up with the lives of two people who chose their ways to come up in life. It is indeed a Ashwin Sanghi trademark narration but a a bit augmented. Being an ardent fan of Ashwin Sanghi's Nail biting, spine chilling climax was a bit disappointed by the ending but yes he did satisfy my expectation with the Epilogue.",
+        "rating": "2",
+        "commentedOn": "16/03/2016",
+        "username": "Neeti"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_70",
+    "name": "The Krishna Key",
+    "price": 670,
+    "description": "The Krishna Key promises an unputdownable thrilling read, as it involves mystery, history, mythology and philosophy. The protagonist Ravi Saini is a Historian, who has the massive responsibility of stopping injustice being served. Ravi embarks upon a journey from the ruins and remains of Dwaraka - the sacred city - to Somnath, Mount Kailash, Kalibangan and Vrindavan temple, to find Lord Krishna’s prized possession, which could divulge his invaluable and astonishing legacy to mankind. A legacy which can stop an impending act of heinous injustice that is about to occur. Would Ravi Saini’s be successful? What is the treasure that was left behind to the mankind by Krishna, arguably the most intriguing Indian mythological character? Discover one of the most captivating stories written by one of the most widely read Indian fiction writer.",
+    "type": "Books",
+    "subType": "Fiction",
+    "author": "Ashwin Sanghi",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_70.jpg",
+    "aboutAuthor": "Ashwin Sanghi is a famous contemporary Indian author. His books are a compendium of subjects like history, theology and mythology, which offer a profound philosophical experience. Ashwin completed B. A. in Economics at St. Xavier’s College and MBA at the Yale School of Management. He has been regarded as the Dan Brown of India. Ashwin has authored three bestsellers – The Rozabal Line, Chanakya’s Chant and The Krishna Key, which have all been critically acclaimed and widely read by fiction aficionados.",
+    "comments": [
+      {
+        "text": "Cleary a masterpiece! I have read all the 3 books written by the author and I have to say with each book I am deeply amazed with the extent of hardwork/research/technical brilliance that Mr Sanghi has put into while penning down this book. I would personally rate this book in one of the top ten books I have read in my lifetime! Great work Mr Sanghi & team!",
+        "rating": "4",
+        "commentedOn": "09/05/2016",
+        "username": "Maria"
+      },
+      {
+        "text": "Like his other two books, The Krishna Key as well, exhibits Ashwin Sanghi's profound love for History. The way he gathers intricate information and most importantly the way he narrates for common folk to comprehend makes him deserve the accolades of literature.",
+        "rating": "5",
+        "commentedOn": "1/04/2015",
+        "username": "Ria"
+      },
+      {
+        "text": "I Preordered the book and was eagerly waiting to get my hands on it !!",
+        "rating": "3",
+        "commentedOn": "16/12/2015",
+        "username": "Zara"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_71",
+    "name": "ACE AGAINST ODDS",
+    "price": 870,
+    "description": "Currently ranked World No. 1 in women's doubles, Sania Mirza became an instant sensation when she won the Wimbledon Championships girls' doubles title at the age of sixteen. From 2003 until her retirement from the singles circuit in 2012, she was ranked by the Women's Tennis Association as India's top player, both in singles and doubles. A six-time Grand Slam champion, she notched up an incredible forty-one consecutive wins with her doubles partner, Martina Hingis, between August 2015 and February 2016.",
+    "type": "Books",
+    "subType": "Biography",
+    "author": "Sania Mirza",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_71.jpg",
+    "aboutAuthor": "Sania Mirza is currently ranked No. 1 in the women's doubles tennis rankings. From 2003 until her retirement from singles in 2013, she was ranked by the Women's Tennis Association as India's No. 1 player, both in singles and doubles. Sania was named one of the '50 Heroes of Asia' by Time in October 2005. In March 2010, The Economic Times listed her as one of the thirty-three women who made India proud.",
+    "comments": [
+      {
+        "text": "If you are a sports fan and Saina fan, it's a must read. Saina has put forth her life, struggles, injuries and her constant perseverance to pull through and reach the much coveted number 1 spot in the world. It's a great lesson for everyone.",
+        "rating": "4",
+        "commentedOn": "19/12/2016",
+        "username": "Rishi"
+      },
+      {
+        "text": "Awesome book .. I'm halfway .. in reading it.Till now it's awesome ..Must buy !!!",
+        "rating": "3",
+        "commentedOn": "12/05/2015",
+        "username": "George"
+      },
+      {
+        "text": "Why all of u giving 1 star. This book is available in just 1 rupee so its a 5 star product. The big billion day is back...",
+        "rating": "2",
+        "commentedOn": "15/2/2015",
+        "username": "Dheeraj"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_72",
+    "name": "CHANAKYAS CHANT",
+    "price": 70,
+    "description": "Chanakya's Chant, published in 2010, is an interesting novel that weaves together two different time lines. The book begins in the year 340 BC, and shows how a young Brahmin boy is traumatized by the murder of his father. He decides to take revenge, and uses his calculating brain to plan it. Slowly, he becomes an expert political strategist and is known as Chanakya. He uses his skills to unify the country Bharat (ancient India). This unity, teamed up with his expertise, ensures that the army of Alexander the Great is defeated, and Chandragupta is crowned the king of the Mauryan empire. With time, Chanakya gets bored and decides to use his intelligence to pen down the Arthashastra.",
+    "type": "Books",
+    "subType": "Fiction",
+    "author": "Sanghi",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_72.jpg",
+    "aboutAuthor": "Sanghi graduated from St. Xavier’s College in Mumbai, and then did his MBA at the Yale School of Management. He is now pursuing a Ph.D. in Creative Writing. The author is the director of M. K. Sanghi Group of Companies. His other two novels The Rozabal Line and The Krishna Key were on the best-sellers list. The author and his family reside in Mumbai.",
+    "comments": [
+      {
+        "text": "The book is not as great as some reviews are trying to make it out to be. Whereas the original Chanakya's story is quite gripping and very well told, its the modern Chanakya's story that is not great. Apart from the modern adversaries looking to be dumb and modern Chanakya somehow has a pill for everything, the original Chanakya's story looks more plausible. But this is smaller of the issues. The bigger one is motivation.",
+        "rating": "5",
+        "commentedOn": "11/03/2016",
+        "username": "George"
+      },
+      {
+        "text": "Ashwin Sanghi's Chanakya's Chant is a great book. First of all considering the negative sides, this book can be a bit hard to catch up as two different stories of different ages are written together. But its wonderful to know that both stories are let to the same conclusion!",
+        "rating": "3",
+        "commentedOn": "03/05/2015",
+        "username": "Ria"
+      },
+      {
+        "text": "Heady cocktail of Power, Politics, and History. A compulsive page turner. Brilliant narration and its interweaved with historical anecdotes. Fresh characters, gripping sub-plots, and wide knowledge on the topics. Go for it -- STRONGLY RECOMMENDED.",
+        "rating": "5",
+        "commentedOn": "12/06/2015",
+        "username": "raj"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_73",
+    "name": "VERONIKA DECIDES TO DIE",
+    "price": 470,
+    "description": "Veronika Decides to die is a story about a young girl, Veronika, who has everything that a girl could think of in life, but still feels like there is something missing. This disturbs her and makes her feel like there is a void in her that is almost impossible to fill. She, therefore, decides to die. Summary of the Book - Veronika has everything that a young woman can think of having, but still isn’t satisfied with this as she feels a void within her. As she feels that nothing can fill this void she decides one fine day that she is going to die and consumes several sleeping pills. While she is surprised to find herself still alive when she wakes up in a local mental hospital, she is told that her wish to die will come true in a matter of days as the overdose on the pills has caused irreparable damage to her heart.  However, it is in these last few days of life that Veronika starts to actually appreciate things around her. She starts to feel things that she has never felt before like: love, fear, hatred, sexual awakening and curiosity.",
+    "type": "Books",
+    "subType": "Fiction",
+    "author": "Chetan Bhagat",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_73.jpg",
+    "aboutAuthor": "Chetan Bhagat is the author of eight blockbuster books. These include six novels - Five Point Someone (2004), One Night @ the Call Center (2005), The 3 Mistakes of My Life (2008), 2 States (2009), Revolution 2020 (2011), Half Girlfriend (2014) - and the non-fiction titles, What Young India Wants (2012) and Making India Awesome (2015).",
+    "comments": [
+      {
+        "text": "Undoubtedly Paulo Coelho is a master story teller of our times. Here in Veronika Decides To Die he aptly weaves a story that is related directly with life and death and also the story spans for a week i.e. the number of days the character Veronika lives in a mental asylum.",
+        "rating": "4",
+        "commentedOn": "19/12/2016",
+        "username": "Babylon"
+      },
+      {
+        "text": "In Master's words it creates awareness of life n awareness of death .i thoroughly enjoyed the book , but found other books by him are far better . Though the climax , is what really creates an impact.All in all must read if you are die hard fan of paulo",
+        "rating": "3",
+        "commentedOn": "12/05/2015",
+        "username": "Justin"
+      },
+      {
+        "text": "It may sound kiddish but I am extremely unhappy because I got no bookmark with the book",
+        "rating": "2",
+        "commentedOn": "15/2/2015",
+        "username": "Dheeraj"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_74",
+    "name": "LIKE THE FLOWING RIVER",
+    "price": 70,
+    "description": "These are thoughts and reflections - both funny and poignant. personal and universal, sorrowful and life-affirming - from the master of insight and inspiration, Paulo Coelho.",
+    "type": "Books",
+    "subType": "Fiction",
+    "author": "Chetan Bhagat",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_74.jpg",
+    "aboutAuthor": "Chetan Bhagat is the author of eight blockbuster books. These include six novels - Five Point Someone (2004), One Night @ the Call Center (2005), The 3 Mistakes of My Life (2008), 2 States (2009), Revolution 2020 (2011), Half Girlfriend (2014) - and the non-fiction titles, What Young India Wants (2012) and Making India Awesome (2015).",
+    "comments": [
+      {
+        "text": "Firstly i would thank flipkart for a great service . This book has a lot of short stories where it leaves a moral behind at the end . i feel its a good buy .Paulo Coelho is at his best in LTFR. Itâ??s a collection of thoughts and reflections. Some of them are from his own experiences while others constitutes legends, stories and experiences which he has heard from various people he met on his journeys to various parts of this earth.",
+        "rating": "5",
+        "commentedOn": "19/1/2016",
+        "username": "Virat"
+      },
+      {
+        "text": "I found the book very much inspiring :)Another masterpiece by my favorite Paulo Coelho. I think everyone should read this book and believe that he/she will be greatly inspired.",
+        "rating": "3",
+        "commentedOn": "11/08/2015",
+        "username": "Dravid"
+      },
+      {
+        "text": "great book of philosophy! it widens our thought about god, religion, people, humanity and develops confidence. though it is of philosophy it is interesting to read with its funny and interesting stories. the book is made of real life happenings of the author with interesting events and mind blowing quotes like---“Work is a blessing when it helps us to think about what were doing;",
+        "rating": "4",
+        "commentedOn": "15/2/2015",
+        "username": "Dattu"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_75",
+    "name": "MANUAL OF THE WARRIOR OF LIGHT",
+    "price": 70,
+    "description": "Paulo Coelho is a Brazilian writer and lyricist. He has also written Veronika Decides to Die, The Alchemist, The Zahir and Aleph.This book inspired the song “Krieger des Lichts” by German rock band Silbermond after the lead singer Stefanie Kloß read the book.",
+    "type": "Books",
+    "subType": "Fiction",
+    "author": "Paulo coelo",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_75.jpg",
+    "aboutAuthor": "Written as a manual for a Templar or Paladin warrior, this book contains extracts from various books, including the Tao Te Ching, the Bible, the book of Chuang Tzu, the Talmud and others. These proverbs are intended to guide those in pursuit of their dreams and appreciate the wonder of life. The book describes the problems a warrior must face throughout life, and how to overcome them. It also describes how to journey forth and meet one’s destiny and ascend to a higher state of being. The book is a definite read for all those who are searching for meaning in life.",
+    "comments": [
+      {
+        "text": "You are a nice writer sir",
+        "rating": "4",
+        "commentedOn": "19/12/2016",
+        "username": "Babylon"
+      },
+      {
+        "text": "Buy any other book from F-Assured and then you will get this book for just Rupees1. Truly what Chetan Bhagat book deserves.",
+        "rating": "3",
+        "commentedOn": "12/05/2015",
+        "username": "Justin"
+      },
+      {
+        "text": "Why all of u giving 1 star. This book is available in just 1 rupee so its a 5 star product. The big billion day is back...",
+        "rating": "2",
+        "commentedOn": "15/2/2015",
+        "username": "Dheeraj"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_76",
+    "name": "Aleph",
+    "price": 270,
+    "description": "In his most personal novel to date, internationally best-selling author Paulo Coelho returns with a remarkable journey of self-discovery. Like the main character in his much-beloved The Alchemist, Paulo is facing a grave crisis of faith. As he seeks a path of spiritual renewal and growth, he decides to begin again: to travel, to experiment, to reconnect with people and the landscapes around him.",
+    "type": "Books",
+    "subType": "Fiction",
+    "author": "Chetan Bhagat",
+    "language": "English",
+    "webRating": 4,
+    "img": "ELEC_PRD_76.jpg",
+    "aboutAuthor": "Paulo Coelho is the author of many international best sellers, including The Alchemist, Eleven Minutes, and The Pilgrimage. His books have sold more than 130 million copies in 160 countries and have been translated into 72 languages. In 2007, he was named a United Nations Messenger of Peace. He lives in Rio de Janeiro, Brazil.",
+    "comments": [
+      {
+        "text": "You are a nice writer sir",
+        "rating": "4",
+        "commentedOn": "19/12/2016",
+        "username": "Babylon"
+      },
+      {
+        "text": "Buy any other book from F-Assured and then you will get this book for just Rupees1. Truly what Chetan Bhagat book deserves.",
+        "rating": "3",
+        "commentedOn": "12/05/2015",
+        "username": "Justin"
+      },
+      {
+        "text": "Why all of u giving 1 star. This book is available in just 1 rupee so its a 5 star product. The big billion day is back...",
+        "rating": "2",
+        "commentedOn": "15/2/2015",
+        "username": "Dheeraj"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_77",
+    "name": "Pride and Prejudice",
+    "price": 90,
+    "description": "PRIDE AND PREJUDICE is a novel of manners by Jane Austen, first published in 1813. The story follows the main character, Elizabeth Bennet, as she deals with issues of manners, upbringing, morality, education, and marriage in the society of the landed gentry of the British Regency. Elizabeth is the second of five daughters of a country gentleman, Mr. Bennet living in Longbourn.",
+    "type": "Books",
+    "subType": "Fiction",
+    "author": "Jane Austen",
+    "language": "English",
+    "aboutAuthor": "Jane Austen (/ˈdʒeɪn ˈɒstɪn/; 16 December 1775 – 18 July 1817) was an English novelist known primarily for her six major novels, which interpret, critique and comment upon the British landed gentry at the end of the 18th century.",
+    "img": "ELEC_PRD_77.jpg",
+    "webRating": 4,
+    "comments": [
+      {
+        "text": "I have read Pride and prejudice many times as it's one of my most favourite books but I didnt have a copy of my own. So bought it from Amazon. Delivery as usual no other seller can top it but the font of the book is very small bcs of which it lost 2 stars.",
+        "rating": "5",
+        "commentedOn": "11/03/2016",
+        "username": "George"
+      },
+      {
+        "text": "A beautiful clothbound edition of my favourite book. I couldn't be more happy with this.",
+        "rating": 5,
+        "commentedOn": "17/05/16",
+        "username": "Tejamsh Kumar"
+      },
+      {
+        "text": "Pride and Prejudice by Jane Austen is one of the Victorian novels that was first published in 1813. This novel takes us to the era where women were deprived of their rights and were to stay at home as showpieces",
+        "rating": 5,
+        "commentedOn": "06/11/16",
+        "username": "Surbhi Patel"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_78",
+    "name": "The Spy",
+    "price": 70,
+    "description": "When Mata Hari arrived in Paris she was penniless. Within months she was the most celebrated woman in the city. As a dancer, she shocked and delighted audiences; as a courtesan, she bewitched the era’s richest and most powerful men.",
+    "type": "Books",
+    "subType": "Fiction",
+    "author": "Paulo Coelho",
+    "language": "English",
+    "aboutAuthor": "One of the most influential writers of our time, Paulo Coelho is the author of many international best sellers, including Adultery, 'The Alchemist, Aleph, Eleven Minutes and Manuscript Found in Accra'.",
+    "img": "ELEC_PRD_78.jpg",
+    "webRating": 4,
+    "comments": [
+      {
+        "text": "An author who never ceases to surprise me with his power of recreating or telling a story in his words. Powerful narrative and excellent contextual relevance.",
+        "rating": 4,
+        "commentedOn": "11/03/2016",
+        "username": "Peter"
+      },
+      {
+        "text": "This work is a fictitious version of an infamous spy's true story.",
+        "rating": 4,
+        "commentedOn": "17/05/16",
+        "username": "Kumar Reddy"
+      },
+      {
+        "text": "A significant insight into history. I liked the book for its narration and simplicity.",
+        "rating": 4,
+        "commentedOn": "06/11/16",
+        "username": "Kashi Agarwal"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_79",
+    "name": "A Prearranged Love",
+    "price": 70,
+    "description": "When they are forced to work together on his company’s marketing campaign, Rekha sees a new side of Arjun, one that she finds hard to resist. While Arjun is increasingly fascinated by Rekha, having once rejected her, could he convince her that she was ‘The One’?",
+    "type": "Books",
+    "subType": "Fiction",
+    "author": "Anusha Vishnampet",
+    "language": "English",
+    "aboutAuthor": "Anusha Vishnampet is an awesome writer",
+    "img": "ELEC_PRD_79.jpg",
+    "webRating": 4,
+    "comments": [
+      {
+        "text": "I loved the chemistry between rekha and Arjun. I was excited reading the book. Over all an interesting piece of work.",
+        "rating": "4",
+        "commentedOn": "11/03/2016",
+        "username": "Kailash"
+      },
+      {
+        "text": "Writer did a good job. Everything felt so real like everyday happenings.... And getting a insight into the girls mind is always a curious subject",
+        "rating": 5,
+        "commentedOn": "17/05/16",
+        "username": "Kunal Krishna"
+      },
+      {
+        "text": "It is a very good dramatic and romantic book.( Dromantic)",
+        "rating": 4,
+        "commentedOn": "06/11/16",
+        "username": "Anand Patel"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_80",
+    "name": "A Prearranged Love",
+    "price": 70,
+    "description": "When they are forced to work together on his company’s marketing campaign, Rekha sees a new side of Arjun, one that she finds hard to resist. While Arjun is increasingly fascinated by Rekha, having once rejected her, could he convince her that she was ‘The One’?",
+    "type": "Books",
+    "subType": "Fiction",
+    "author": "Anusha Vishnampet",
+    "language": "English",
+    "aboutAuthor": "Anusha Vishnampet is an awesome writer",
+    "img": "ELEC_PRD_80.jpg",
+    "webRating": 4,
+    "comments": [
+      {
+        "text": "I loved the chemistry between rekha and Arjun. I was excited reading the book. Over all an interesting piece of work.",
+        "rating": "4",
+        "commentedOn": "11/03/2016",
+        "username": "Kailash"
+      },
+      {
+        "text": "Writer did a good job. Everything felt so real like everyday happenings.... And getting a insight into the girls mind is always a curious subject",
+        "rating": 5,
+        "commentedOn": "17/05/16",
+        "username": "Kunal Krishna"
+      },
+      {
+        "text": "It is a very good dramatic and romantic book.( Dromantic)",
+        "rating": 4,
+        "commentedOn": "06/11/16",
+        "username": "Anand Patel"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_81",
+    "name": "Mein Kampf",
+    "price": 70,
+    "description": "Mein Kampf is an autobiography by the National Socialist leader Adolf Hitler, in which Hitler outlines his political ideology and future plans for Germany. Volume 1 of Mein Kampf was published in 1925.",
+    "type": "Books",
+    "subType": "Fiction",
+    "author": "Adolf Hitler",
+    "language": "English",
+    "aboutAuthor": "Hitler is a great dictator",
+    "img": "ELEC_PRD_81.jpg",
+    "webRating": 4,
+    "comments": [
+      {
+        "text": "I have received my book yesterday, the book is in very good condition.I have also started reading and found interesting friends.",
+        "rating": "4",
+        "commentedOn": "11/03/2016",
+        "username": "Kailash"
+      },
+      {
+        "text": "Excellent work by a visionary leader. A person who cleansed the society. A remarkable personality.",
+        "rating": 5,
+        "commentedOn": "17/05/16",
+        "username": "Kunal Krishna"
+      },
+      {
+        "text": "The book is no doubt a good read. However a few spelling errors have come into notice while reading. Though not much of a problem.",
+        "rating": 4,
+        "commentedOn": "06/11/16",
+        "username": "Anand Patel"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_82",
+    "name": "Playing it My Way",
+    "price": 420,
+    "description": "The autobiography of the highest scoring batsman of all time.",
+    "type": "Books",
+    "subType": "Biography",
+    "author": "Sachin Tendulkar",
+    "language": "English",
+    "aboutAuthor": "Born in Mumbai, Sachin Tendulkar made his Test debut in Pakistan at the age of 16 in 1989. One of the most gifted and entertaining batsmen to have played international cricket, he scored more runs and made more centuries than any other player in history - in both Tests and ODIs.",
+    "img": "ELEC_PRD_82.jpg",
+    "webRating": 3,
+    "comments": [
+      {
+        "text": "This book is for cricket crazy folks like me. I gave it to some of my friends to read and some of them thought there is a bit too much detailing on the scorecards.",
+        "rating": "5",
+        "commentedOn": "14/01/2017",
+        "username": "Prasanna Shaik"
+      },
+      {
+        "text": "brought it as a gift for a fan of sachin. was well appreciated!",
+        "rating": 5,
+        "commentedOn": "17/05/16",
+        "username": "Kunal Bhagat"
+      },
+      {
+        "text": "Quite boring auto biography!",
+        "rating": 4,
+        "commentedOn": "06/11/16",
+        "username": "Anand Agarwal"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "percentage": 5
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_83",
+    "name": "Lonely at the Top",
+    "price": 735,
+    "description": "The definitive biography of the Arsenal, France and Barcelona legend",
+    "type": "Books",
+    "subType": "Biography",
+    "author": "Philippe Auclair",
+    "language": "English",
+    "aboutAuthor": "Born in Mumbai, Sachin Tendulkar made his Test debut in Pakistan at the age of 16 in 1989. One of the most gifted and entertaining batsmen to have played international cricket, he scored more runs and made more centuries than any other player in history - in both Tests and ODIs.",
+    "img": "ELEC_PRD_82.jpg",
+    "webRating": 3,
+    "comments": [
+      {
+        "text": "Great read, especially for Arsenal fans.",
+        "rating": "5",
+        "commentedOn": "03/11/2013",
+        "username": "Shakil Johnny"
+      },
+      {
+        "text": "Loved the fact that the book is not just singing Thierry's song page after page but has revealed complexities of the Arsenal legends character.",
+        "rating": 5,
+        "commentedOn": "11/02/16",
+        "username": "Sammy Peterson"
+      },
+      {
+        "text": "Great Read!!",
+        "rating": 4,
+        "commentedOn": "12/01/15",
+        "username": "Prakash Ja"
+      }
+    ],
+    "offers": [
+      {
+        "type": "exchange",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "id": "ELEC_PRD_84",
+    "name": "My Experiments With Truth",
+    "price": 390,
+    "description": "Mohandas Karamchand Gandhi was born in Western India in 1869. He was educated in London and later travelled to South Africa, where he experienced racism and took up the rights of Indians, instituting his first campaign of passive resistance.",
+    "type": "Books",
+    "subType": "Biography",
+    "author": "Mohandas Karamchand Gandhi",
+    "language": "English",
+    "aboutAuthor": "Mohandas Gandhi was born in Western India in 1869. After studying law in London and living in South Africa for many years, he returned to India in 1915, where he spent the rest of his life campaigning for India's independence and promoting his fundamental principles of truth and non-violence.",
+    "img": "ELEC_PRD_82.jpg",
+    "webRating": 3,
+    "comments": [
+      {
+        "text": "If there is one book anyone has to read on self respect and discipline(which has now become a folklore to many)this is the one",
+        "rating": "5",
+        "commentedOn": "12/09/2014",
+        "username": "Manick"
+      },
+      {
+        "text": "This book is full of wonderful moments from Gandhi's life. The book captures even the smallest experiences of his.",
+        "rating": 4,
+        "commentedOn": "16/12/16",
+        "username": "Manvi Arora"
+      },
+      {
+        "text": "A must have book! In ur library/collection.Quality of binding is good.pages feel as if it was preserved for long time...",
+        "rating": 4,
+        "commentedOn": "13/01/17",
+        "username": "Alok Dayananda"
+      }
+    ],
+    "offers": [
+      {
+        "type": "discount",
+        "percentage": 2
+      }
+    ]
+  }
+]

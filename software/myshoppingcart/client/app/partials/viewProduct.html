@@ -1,0 +1,44 @@
+<div class="main">
+    <img class="img" src="{{'/app/images/'+product.img}}">
+    <div class="smain">
+        <p class="name"><b>{{product.name}}</b></p>
+        <p class="price"><b>{{product.price | currency:"&#8377;"}}</b></p>
+        <div ng-if="product.type == 'Electronics'">
+            <p class="glyphicon glyphicon-arrow-right"><b>FEATURES: </b></p>
+            <div class="features">
+                <p class="ram">RAM: {{product.RAM}}</p>
+                <p class="color">color: {{product.color}}</p>
+                <p class="battery">battery: {{product.battery}}</p>
+            </div>
+        </div>
+        <p class="glyphicon glyphicon-file" ><b>DESCRIPTION: </b>{{product.description}}</p>
+        <div ng-if="product.type == 'Electronics'">
+            <p class="brand">brand: {{product.brand}}</p></div>
+        <div ng-if="product.type == 'Electronics'">
+            <p><b>SPECIFICATIONS: </b></p>
+            <div class = "spec">
+
+                <p class="ram">RAM: {{product.RAM}}</p>
+                <p class="modelname">modelName: {{product.modelName}}</p>
+                <p class="color">color: {{product.color}}</p>
+                <p class="battery">battery: {{product.battery}}</p>
+                <p class="camera">camera: </p>
+                <div class = "cam">
+                    <p>front:{{product.camera.front}}</p>
+                    <p ng-if="product.subType == 'mobile'" > rear:{{product.camera.rear}}</p>
+                </div>
+            </div>
+        </div>
+        <div ng-if="product.type == 'Books'"><b> ABOUT AUTHOR: </b>
+            <p>{{product.aboutAuthor}}</p>
+        </div>
+        <p><b>REVIEWS: </b></p>
+        <div class="comments">
+            <div ng-repeat="x in product.comments">
+                <p class = "comments.username"><b>{{x.username}} says: </b></p>
+                <p class = "comments.text">{{x.text}}</p>
+            </div>
+            <hr>
+        </div>
+    </div>
+</div>

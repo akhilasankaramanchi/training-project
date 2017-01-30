@@ -1,0 +1,11 @@
+<div class="similarProducts">
+    <div class="displaySlider" ng-repeat="x in products">
+        <img class="image" src="{{'/app/images/'+x.img}}">
+        <div class="data">
+            <p>{{x.name}}</p>
+            <p> price:{{x.price}}</p>
+        </div>
+        <hr>
+    </div>
+    <button  class="fa fa-angle-right" aria-hidden="true" fa-4x ng-click="clickFn()"> </button>
+</div>

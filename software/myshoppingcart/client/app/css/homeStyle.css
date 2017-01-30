@@ -1,0 +1,50 @@
+.dropdown-menu > li {
+    margin-left: 7px;
+}
+.searchTab {
+    width: 50%;
+    margin: auto;
+}
+ul.nav li:hover > ul.dropdown-menu {
+    display:block;
+}
+#footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background: #6cf;
+}
+.image {
+    width: 90px;
+    height: 140px;
+}
+/*.ul {*/
+    /*float: left;*/
+    /*width: 100%;*/
+/*}*/
+
+.ui-select-choices{
+    top: 100%;
+    bottom: auto;
+    border-color: #2aabd2;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+.tr{
+    display: inline-block;
+    margin: 15px;
+    width: 190px;
+    text-align: center;
+    word-wrap: break-word;
+    height: 100%;
+}
+.f {
+    display: flex;
+}
+.topRatedSearchBar {
+    font-size: 10px;
+}

@@ -1,0 +1,36 @@
+<header>
+    <div>
+        <h1><a class="n"href="/"> MyShoppingCart </a></h1>
+        <nav class="navbar navbar-default">
+            <a class="dropdown-toggle" style="padding-top: 2px"> Home </a>
+            <div class="container-fluid">
+
+                <div class="collapse navbar-collapse">
+                    <!--<span><i class="fa fa-home" aria-hidden="true" fa-4x></i></span>-->
+
+                    <ul class="nav navbar-nav">
+
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown"> Electronics </a>
+                            <ul class="dropdown-menu">
+                                <li><a ui-sref="search({key:'mobile'})">Mobile</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a ui-sref="search({key:'laptop'})"> Laptop</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" role="button"> Books </a>
+                            <ul class="dropdown-menu">
+                                <li><a ui-sref="search({key:'Fiction'})"> Fiction </a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a ui-sref="search({key:'Comics'})"> Comics </a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a ui-sref="search({key:'Biography'})"> Biography </a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>

@@ -1,0 +1,9 @@
+<a class = "tr" ui-sref="view({key:y.name})" ng-repeat="y in products | orderBy: '-webRating' | limitTo: 5">
+    <img class="image" src="{{'/app/images/'+y.img}}" height="50px"><br>
+    <b>{{y.name}}</b>
+    <br>
+    <b>{{y.price | currency :"&#8377;"}}</b>
+    <br>
+    <jk-rating-stars class = "topRatedStars" rating="y.webRating" read-only="true">
+    </jk-rating-stars>
+</a>

@@ -1,0 +1,27 @@
+.main {
+    display: flex;
+}
+.filter {
+    margin: 2%;
+    margin-right: 20%;
+}
+
+td {
+    border-left: 1px solid red; padding: 5px;
+}
+
+
+    /*float:left;*/
+    /*!*max-width: 120px;*!*/
+    /*margin-right: 10%;*/
+    /*!* max-height: 100%; *!*/
+    /*border: 1px solid black;*/
+    /*margin: 0;*/
+    /*padding: 1em;*/
+
+/*.products {
+    float: left;
+    margin-right: 40%;
+    border: 1px solid black;
+
+}*/
