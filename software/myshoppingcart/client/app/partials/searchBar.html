@@ -1,6 +1,6 @@
 <div class="searchFunc">
     <form class="f">
-        <ui-select ng-model="searchitem.selected" theme="bootstrap" class ="searchTab" onkeypress="handle(event)">
+        <ui-select ng-model="searchitem.selected" theme="bootstrap" class ="searchTab">
             <ui-select-match placeholder="Select or search for an item">{{$select.selected.name}}</ui-select-match>
             <ui-select-choices repeat=" item.name as item in searchitem | filter: $select.search | limitTo:5">
                 <div >
@@ -15,11 +15,3 @@
         <span><button class="btn btn-primary" ui-sref="view({key:searchitem.selected})" ng-disabled="!searchitem.selected"> SEARCH </button> </span>
     </form>
 </div>
-<script>
-    function handle(event) {
-        if(event.keyCode == 13) {
-            event.preventDefault();
-
-        }
-    }
-</script>

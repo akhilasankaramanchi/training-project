@@ -10,7 +10,8 @@
          'myshoppingcart.search',
          'myshoppingcart.view',
          'jkAngularRatingStars',
-         'pascalprecht.translate'
+         'pascalprecht.translate',
+         'checklist-model'
      ]);
 
 }());

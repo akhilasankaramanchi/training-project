@@ -2,17 +2,26 @@
     <h1> In search page </h1>
     <div class="main">
         <div class = "filter">
-            <p>Filters</p>
-            <p> Brands </p>
-            <div ng-repeat="brand in sc.brands | unique:brand ">
-                <input type="checkbox"> {{brand}}
+            <p><b><i> FILTERS </i></b></p>
+            <br>
+            <p><b> BRAND </b></p>
+            <!--<div ng-repeat="brand in sc.brands | unique:brand ">-->
+                <!--<input type="checkbox"> {{brand}}-->
+            <!--</div>-->
 
+            <div ng-repeat="brand in sc.brands | unique:brand">
+                <input type="checkbox" id = "brand" ng-click="sc.toggleSelection(brand)"> {{brand}}
             </div>
+
+
             <td>
 
         </div>
+
         <div class="products">
-            <div class="s" ng-repeat="x in sc.returnedData">
+            {{sc.returnedData}}
+            <div class="s" ng-repeat="x in sc.returnedData" >
+                image name {{x.img}}
                 <img class="image" src="{{'/app/images/'+x.img}}">
                 <div class="data">
                     <p>{{x.name}}</p>
@@ -21,5 +30,6 @@
                 <hr>
             </div>
         </div>
+    </div>
     </div>
 </div>

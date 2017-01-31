@@ -41,16 +41,16 @@
             return list;
         };
 
-        this.getValByType = function(key,value) {
+        this.getValByType = function(data,key,value) {
             console.log("Key "+ key + "Value " + value)
-            var d = [];
-            d = $rootScope.data;
+            //var d = [];
+            //d = $rootScope.data;
             console.log(';;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;'+$rootScope.data)
-            console.log("1111111111111111111111111111111111111111111"+d)
+            console.log("1111111111111111111111111111111111111111111"+data)
             var list = [];
-            for (var i = 0; i < d.length; i++) {
-                if(key in d[i] && d[i][key] == value){
-                    list.push(d[i]);
+            for (var i = 0; i < data.length; i++) {
+                if(key in data[i] && data[i][key] == value){
+                    list.push(data[i]);
                 }
             }
 
@@ -92,6 +92,17 @@
                     index++;
                 }
             }
+        }
+        this.checkboxSearch = function(typeData,brands) {
+            var list = [];
+            for(var i = 0; i < brands.length; i ++) {
+                console.log("--------------------"+brands[i]);
+                //var v = this.getValByType(typeData,"brand",brands[i]);
+                //console.log("??????????????"+ v[0].name);
+                list.push(this.getValByType(typeData,"brand",brands[i]));
+            }
+            console.log("##################"+list);
+            return list;
         }
     }
 }());
